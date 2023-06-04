@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Development &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<atom:link href="/category/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 30 Apr 2023 01:05:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-Logo_AY_-favicon-1-32x32.png</url>
+	<title>Development &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
+		<title>GPT Assistant</title>
+		<link>/gpt-assistant/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2023 18:39:52 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=3333</guid>
+
+					<description><![CDATA[A writing assistant based on OpenAI’s GPT 3.5 model. (Ongoing project) ]]></description>
+										<content:encoded><![CDATA[
+<style>.nv-content-wrap.entry-content {padding-bottom: 0 !important; margin-top: 0 !important}</style>
+
+
+<style>
+	.full-screen {
+		height: calc(100vh - 72px);
+		width: 100%;
+	}
+</style>
+
+<iframe src=https://gpt-assistant.pages.dev/ class="full-screen"></iframe>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3333</post-id>	</item>
+		<item>
+		<title>AI Created Webpage</title>
+		<link>/ai-created-webpage/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sat, 28 Jan 2023 01:23:14 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">/?p=3169</guid>
+
+					<description><![CDATA[I asked ChatGPT, an AI chatbot, to generate the text content and write an HTML+CSS web page about &#8220;My Design Statement.&#8221; Here is what it wrote. And the generated code works perfectly: https://visual-lab.pages.dev/ai-created-webpage/. What I did is enter the following commend, or prompt, to the system: Write the html code of a web page with&#8230;&#160;<a href="/ai-created-webpage/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">AI Created Webpage</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>I asked ChatGPT, an AI chatbot, to generate the text content and write an HTML+CSS web page about &#8220;My Design Statement.&#8221; Here is what it wrote. And the generated code works perfectly: <a rel="noreferrer noopener" href="https://visual-lab.pages.dev/ai-created-webpage/?fbclid=IwAR3b1P1snBpYt0aH344hCo9dCNbzxHG5ZQvfTfQOsX4_cZ1sGvCLTwIlPoM" target="_blank">https://visual-lab.pages.dev/ai-created-webpage/</a>. What I did is enter the following commend, or prompt, to the system:</p>
+
+
+
+<blockquote class="wp-block-quote has-small-font-size" style="font-style:normal;font-weight:300">
+<p class="has-text-color" style="color:#979797">Write the html code of a web page with a large title saying &#8220;My Design Statement&#8221; in the header. Also, the header should use this image as the background: &#8220;/&#8230;/2022/12/MG_5529-copy-930&#215;620.jpg.&#8221; The header is 600px in height and has no margins. The large title is white and in the middle of the header.</p>
+
+
+
+<p class="has-text-color" style="color:#979797">Then add a new section called &#8220;design-statemen&#8221;. The width of this section should be 90% and not wider than 900px. In the &#8220;design-statement&#8221; section, write a designer&#8217;s personal statement about his mission on graphic design and teaching. The block of &#8220;design-statement&#8221; section should be center-aligned, and the text inside the block should be left-aligned. Make this easy to read. For the font family of the page, I want to use Montserrat.</p>
+</blockquote>
+
+
+
+<figure class="wp-block-video space-top-md"><video controls src="/wp-content/uploads/2023/01/ChatGPT-creates-a-website.mov"></video></figure>
+
+
+
+<div style="height:53px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>And this is what it created:</p>
+
+
+<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-large"><a href="https://visual-lab.pages.dev/ai-created-webpage/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="493" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-1024x493.png" alt="" class="wp-image-3171" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-1024x493.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-300x145.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-768x370.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-1536x740.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-5-2048x987.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">A webpage created by ChatGPT. </figcaption></figure></div>
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2023/01/ChatGPT-creates-a-website.mov" length="7549905" type="video/quicktime" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">3169</post-id>	</item>
+		<item>
+		<title>Simple Booking</title>
+		<link>/simple-booking/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sat, 17 Dec 2022 22:49:00 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=1411</guid>
+
+					<description><![CDATA[Simple Booking is an online tool that helps departments track facility usage and reduce close contact during the COVID-19 pandemic. This is the updated version of the system.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container"><div class='printomatic pom-small-white ' id='id6789' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id6789' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>MY ROLE:</strong></p>
+
+
+
+<ul>
+<li><strong>UI/UX Design</strong>
+<ul>
+<li>Wireframe</li>
+
+
+
+<li>Low- and high-Fidelity Prototype</li>
+
+
+
+<li>Interaction Design</li>
+
+
+
+<li>Visual Design</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><strong>Web App Development</strong>
+<ul>
+<li>System Design</li>
+
+
+
+<li>Front-end Development</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>TIME:</strong></p>
+
+
+
+<p>August 2019 &#8211; Present</p>
+
+
+
+<p><strong>TECHNOLOGIES:</strong></p>
+
+
+
+<ul>
+<li>HTML/JavaScript/CSS</li>
+
+
+
+<li>ReactJS</li>
+
+
+
+<li>Firebase Realtime Database</li>
+
+
+
+<li>Bootstrap</li>
+</ul>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">1. Introduction</h2>
+
+
+
+<p>This project started with a minimum viable product to reduce the spread of the virus during the COVID-19 pandemic. At the beginning, we wanted to find an existing product that met our initial requirements. However, we tried twelve existing products but didn’t find anything that met our needs. Therefore, I created Simple Booking. <mark style="background-color:var(--nv-c-1)" class="has-inline-color">While creating the program, I developed an engineering mindset that was integrated into my design and teaching:</mark></p>
+
+
+
+<blockquote class="wp-block-quote">
+<ul class="has-nv-c-2-color has-text-color">
+<li>Thinking in systems</li>
+
+
+
+<li>Designing in Constraints</li>
+
+
+
+<li>Discovering the structure under the surface</li>
+
+
+
+<li>Creating reusable modules</li>
+</ul>
+</blockquote>
+
+
+
+<p>The <a rel="noreferrer noopener" href="/bookingsodaa/" data-type="URL" data-id="/bookingsodaa/" target="_blank">first version</a> has been available for students since 2019. In the past two years, it has been used by SoDAA students and faculty more than one thousand times. After two years of use, more needs were revealed from the user groups. So, in the second iteration of the project, my goal is to improve the functionalities and design to meet the growing needs.</p>
+
+
+
+<p><mark style="background-color:var(--nv-c-1)" class="has-inline-color">This project was used as the case study in my UI/UX design course that demonstrated the user-centered design approach.</mark> </p>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<h3 class="wp-block-heading" id="3-basic-concept">Basic Concepts</h3>
+
+
+
+<h4 class="wp-block-heading">A. Login-Free</h4>
+
+
+
+<p>The users only need to enter their name and email address the first time. The next time they open the system with the same device, the system will skip the name and email input. This feature can be turned off for public devices.</p>
+
+
+
+<h4 class="wp-block-heading">B. Easy Access</h4>
+
+
+
+<p>The system provides flexible booking options to make bookings more accessible. Users can reserve a space with the following methods:</p>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-8">
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/website.png" alt="" class="wp-image-1896" width="72" height="72" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/website.png 512w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/website-300x300.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/website-150x150.png 150w" sizes="(max-width: 72px) 100vw, 72px" /></figure></div>
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center">Open a URL on Web Browser</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/qr-code.png" alt="" class="wp-image-1897" width="72" height="72"/></figure></div>
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center">Scanning a QR code</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/nfc.png" alt="" class="wp-image-1895" width="72" height="72" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/nfc.png 512w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/nfc-300x300.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/nfc-150x150.png 150w" sizes="(max-width: 72px) 100vw, 72px" /></figure></div>
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center">Tap an NFC tag</p>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading">C. Sustainability</h4>
+
+
+
+<p>The current system does not allow users to update the space information or create a new space. To make any changes, the developer needs to edit the database and code directly, which is not sustainable as a system. For the new version, I will add user interfaces for the space managers and the top-level administrators.</p>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+
+
+
+<h3 class="wp-block-heading">User Groups</h3>
+
+
+
+<p>My goal for this project is to build a management system that includes the front page, management dashboard, and system administration. So, the project has three user groups: end users, space managers, and system administrators.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-13">
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-left"><strong>End Users</strong></p>
+
+
+
+<ul>
+<li>schedule a facility with their NDSU email.</li>
+
+
+
+<li>view their reservation history.</li>
+
+
+
+<li>cancel a reservation.</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-left"><strong>Space Managers</strong></p>
+
+
+
+<ul>
+<li>set up training requirements</li>
+
+
+
+<li>add end users to the list.</li>
+
+
+
+<li>enable/disable the space</li>
+
+
+
+<li>update the weekly schedule.</li>
+
+
+
+<li>view the reservations of the facility.</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-left"><strong>System</strong> <strong>Administrators</strong></p>
+
+
+
+<ul>
+<li>create a new facility/space.</li>
+
+
+
+<li>do everything that the space managers can.</li>
+</ul>
+</div>
+</div>
+
+
+
+<p>I have finished the design for the front page of end users. In the next steps, I will complete the design and development for the space management and system administration.</p>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<h2 class="wp-block-heading">2. User Research</h2>
+
+
+
+<h3 class="wp-block-heading">Survey</h3>
+
+
+
+<p>To collect the user feedback on the old version and their expectations for the next version, an online survey was sent out to about one hundred students across three departments. As a result, fifteen completed responses were recorded.</p>
+
+
+
+<figure class="wp-block-image alignwide size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM.png"><img decoding="async" width="1024" height="748" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM-1024x748.png" alt="" class="wp-image-1905" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM-1024x748.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM-300x219.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM-768x561.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Screenshot-2022-12-17-at-5.07.24-PM.png 1488w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Survey Responses, Click to view the full-size images.</figcaption></figure>
+
+
+
+<p>Based on the responses to the survey, most users make schedules on computers. The participants also provided their comments on the open-ended questions. To find the use needs and the design requirements, I used an affinity diagram to categorize the topics.</p>
+
+
+
+<h4 class="wp-block-heading">Affinity Diagram</h4>
+
+
+<div class="wp-block-image">
+<figure class="wp-duotone-unset-14 aligncenter size-large is-resized"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram.jpg"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-1024x1004.jpg" alt="Affinity Diagram" class="wp-image-1935" width="754" height="739" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-1024x1004.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-300x294.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-768x753.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-1536x1505.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Affinity-Diagram-2048x2007.jpg 2048w" sizes="(max-width: 754px) 100vw, 754px" /></a><figcaption class="wp-element-caption">Click to view the full-size images.</figcaption></figure></div>
+
+
+<h3 class="wp-block-heading">Value Proposition</h3>
+
+
+
+<p>Based on the categorized themes on the survey analysis, the following <mark style="background-color:var(--nv-c-1)" class="has-inline-color">value proposition</mark> was created that lists the expected features for the system. </p>
+
+
+
+<ol>
+<li>Make a reservation</li>
+
+
+
+<li>Check space information and current status</li>
+
+
+
+<li>View reservation history</li>
+
+
+
+<li>Receive email notification</li>
+
+
+
+<li>View space announcement</li>
+
+
+
+<li>Add the reservation page to mobile phone home screen</li>
+
+
+
+<li>Scan a QR code to open the reservation page</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">3. Low-Fidelity Design</h2>
+
+
+
+<p><mark style="background-color:var(--nv-c-1)" class="has-inline-color">Sketching is my way of thinking</mark>. When the functionalities were confirmed, I started to explore elements and the interactions with a pen and paper. This helped me quickly produce the various solutions and document the design process.</p>
+
+
+
+<figure class="wp-block-image alignwide size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation.png"><img decoding="async" width="1024" height="571" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-1024x571.png" alt="simple booking ideation" class="wp-image-1930" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-1024x571.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-300x167.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-768x428.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-1536x857.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/ideation-2048x1142.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Partial sketches during the design process</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Digital Wireframes</h3>
+
+
+
+<p>From the sketches, I selected the ideas that best met the design requirements and started to build the digital wireframe with Adobe XD. In this step, few details were considered so that I could test and iterate the design rapidly.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-2 is-cropped padding-sm has-nv-light-bg-background-color has-background wp-block-gallery-15 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation.jpg"><img decoding="async" width="1024" height="576" data-id="1953"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation-1024x576.jpg" alt="" class="wp-image-1953" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Confirmation-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page.jpg"><img decoding="async" width="1024" height="576" data-id="1954"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page-1024x576.jpg" alt="" class="wp-image-1954" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Home-page-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling.jpg"><img decoding="async" width="1024" height="576" data-id="1955"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling-1024x576.jpg" alt="" class="wp-image-1955" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Cencelling-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1.jpg"><img decoding="async" width="1024" height="576" data-id="1956"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1-1024x576.jpg" alt="" class="wp-image-1956" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-1-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2.jpg"><img decoding="async" width="1024" height="576" data-id="1957"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2-1024x576.jpg" alt="" class="wp-image-1957" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Page-2-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult.jpg"><img decoding="async" width="1024" height="576" data-id="1958"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult-1024x576.jpg" alt="" class="wp-image-1958" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Reservation-Resrult-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection.jpg"><img decoding="async" width="1024" height="576" data-id="1959"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection-1024x576.jpg" alt="" class="wp-image-1959" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Space-Selection-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard.jpg"><img decoding="async" width="1024" height="576" data-id="1960"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard-1024x576.jpg" alt="" class="wp-image-1960" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/User-Dashboard-1536x864.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">Click to view the full-size images.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">4. High-Fidelity Design</h2>
+
+
+
+<p>After some iterations on the low-fidelity design, I started to think about more details of the interactions and visual design.</p>
+
+
+
+<h3 class="wp-block-heading">Interactive Prototype </h3>
+
+
+
+<iframe width="1366" height="768" src="https://xd.adobe.com/embed/008f7a57-7e17-4405-b009-bd37a01da70c-55dc/?fullscreen&amp;hints=off" frameborder="0" allowfullscreen=""></iframe>
+
+
+
+<p style="font-size:16px">If the prototype is no loaded, please go to <a rel="noreferrer noopener" href="https://xd.adobe.com/view/008f7a57-7e17-4405-b009-bd37a01da70c-55dc/?fullscreen&amp;hints=off" target="_blank">https://xd.adobe.com/view/008f7a57-7e17-4405-b009-bd37a01da70c-55dc/?fullscreen&amp;hints=off</a>. </p>
+
+
+
+<h3 class="wp-block-heading">Visual Design</h3>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-2 uag-masonry padding-sm has-nv-light-bg-background-color has-background uagb-block-b04eaca6 wp-block-gallery-17 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1.jpg"><img decoding="async" width="1024" height="576" data-id="2690"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1-1024x576.jpg" alt="" class="wp-image-2690" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-1-1.jpg 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1.jpg"><img decoding="async" width="1024" height="576" data-id="2689"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1-1024x576.jpg" alt="" class="wp-image-2689" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-2-1.jpg 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1.jpg"><img decoding="async" width="1024" height="575" data-id="2687"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1-1024x575.jpg" alt="" class="wp-image-2687" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1-1024x575.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1-300x168.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1-768x431.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-3-1.jpg 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1.jpg"><img decoding="async" width="1024" height="576" data-id="2688"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1-1024x576.jpg" alt="" class="wp-image-2688" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-4-1.jpg 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1.jpg"><img decoding="async" width="1024" height="576" data-id="2691"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1-1024x576.jpg" alt="" class="wp-image-2691" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1-1024x576.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1-768x432.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-visual-5-1.jpg 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">Click to view the full-size images.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">5. Reusable Design Components</h2>
+
+
+
+<p><mark style="background-color:var(--nv-c-1)" class="has-inline-color">The reusable design components, or a design system, can help a team quickly extend the project and keep a consistent design language.</mark> At the end of the design, I created the color scheme and the basic UI elements, such as cards, buttons, and navigation. The creation of the design components <mark style="background-color:var(--nv-c-1)" class="has-inline-color">also made the development more manageable and maintainable.</mark></p>
+
+
+
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Colors-1024x592.jpg" alt="" class="wp-image-1938" width="864" height="499" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Colors-1024x592.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Colors-300x173.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Colors-768x444.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Colors.jpg 1537w" sizes="(max-width: 864px) 100vw, 864px" /></figure></div>
+
+
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Cards-1024x470.jpg" alt="" class="wp-image-1937" width="863" height="396" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Cards-1024x470.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Cards-300x138.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Cards-768x353.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Cards.jpg 1537w" sizes="(max-width: 863px) 100vw, 863px" /></figure></div>
+
+
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Nav-1024x266.jpg" alt="" class="wp-image-1939" width="858" height="223" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Nav-1024x266.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Nav-300x78.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Nav-768x200.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-Nav.jpg 1537w" sizes="(max-width: 858px) 100vw, 858px" /></figure></div>
+
+
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons-1024x424.jpg" alt="" class="wp-image-1936" width="855" height="354" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons-1024x424.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons-300x124.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons-768x318.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons-1536x636.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/simple-booking-components-buttons.jpg 1624w" sizes="(max-width: 855px) 100vw, 855px" /></figure></div>
+
+
+<h2 class="wp-block-heading">6. Implementation</h2>
+
+
+
+<p>The system is being implemented with ReactJS, which is a UI-component-based framework. I have finished the major functionalities of the reservation page. I am applying visual design to the system. A <a rel="noreferrer noopener" href="https://simple-booking.pages.dev/" data-type="URL" data-id="https://simple-booking.pages.dev/" target="_blank">demo project</a> has been deployed on a web server. This is an incremental development. I will continue completing the manager and admin pages. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-1024x572.png" alt="" class="wp-image-1967" width="1171" height="654" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-1024x572.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-300x168.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-768x429.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-1536x859.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/iShot_2022-12-17_20.00.25-2048x1145.png 2048w" sizes="(max-width: 1171px) 100vw, 1171px" /><figcaption class="wp-element-caption">The development the new system</figcaption></figure></div>
+
+
+<h2 class="wp-block-heading">7. Future Work</h2>
+
+
+
+<p>Currently, Simple Booking has been proven to be successful by a small group that has about one hundred users in a design school. In the future, I plan to further optimize the system design and make Simple Booking a product that meets the needs of bigger user groups. The following tasks will be done:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<ul>
+<li>Conduct marketing research and extend the user scenarios.</li>
+
+
+
+<li>Create marketing positioning map and discover more benefit of Simple Booking over existing products</li>
+
+
+
+<li>Complete the system documentation and user manual to ease the maintenance.</li>
+</ul>
+</blockquote>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-cover" style="min-height:487px"><span aria-hidden="true" class="wp-block-cover__background has-nv-light-bg-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<h2 class="has-text-align-center has-nv-dark-bg-color has-text-color wp-block-heading">Interested in a demo?</h2>
+
+
+
+<p class="has-text-align-center has-nv-dark-bg-color has-text-color">Please use the following information to try the system:</p>
+
+
+
+<p class="has-text-align-center has-nv-dark-bg-color has-text-color">email: <strong>demo@ndsu.edu</strong> | username: <strong>Demo User</strong></p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-19">
+<div class="wp-block-button is-style-default"><a class="wp-block-button__link has-nv-dark-bg-color has-nv-c-1-background-color has-text-color has-background wp-element-button" href="https://simple-booking.pages.dev/" target="_blank" rel="noreferrer noopener">Bring me there</a></div>
+</div>
+
+
+
+<p class="has-text-align-center space-top-md has-nv-dark-bg-color has-text-color">or use the following link:</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://simple-booking.pages.dev/" data-type="URL" data-id="https://simple-booking.pages.dev/" target="_blank">simple-booking.pages.dev</a></p>
+
+
+
+<div style="height:84px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+
+
+
+<div style="height:65px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-text-align-center wp-block-heading">Other Featured Projects</h2>
+
+
+
+<div class="wp-block-columns alignwide has-text-color has-background is-layout-flex wp-container-23" style="color:#000000;background-color:#ffffff">
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><strong><a href="/adl-1-2-3/" data-type="URL" data-id="/adl-1-2-3/">ADL 1-2-3 Device</a></strong></h3>
+
+
+
+<p>A gamified system that saves young patients’ lives by finishing daily hygiene activities.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/simple-booking/" data-type="URL" data-id="/simple-booking/"> </a><a href="/efargo/" data-type="post" data-id="1716">eFargo: Energy-Saving Game</a></h3>
+
+
+
+<p>An interactive game that helps reduce&nbsp;energy use to fight climate change.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/alumni-map/" data-type="URL" data-id="/alumni-map/">SoDAA Alumni Map</a></h3>
+
+
+
+<p>An interactive map that shows the alumni network of NDSU School of Design, Architecture, and Art.</p>
+</div>
+</div>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1411</post-id>	</item>
+		<item>
+		<title>eFargo: Energy-Saving Game</title>
+		<link>/efargo/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Wed, 18 May 2022 03:20:46 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=1716</guid>
+
+					<description><![CDATA[eFargo is an interactive game for public schools to help reduce carbon emissions and energy use to fight climate change.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image alignwide size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets.png"><img decoding="async" width="1917" height="1085" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets.png" alt="" class="wp-image-1722" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets.png 1917w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets-300x170.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets-1024x580.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets-768x435.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Dashboard-assets-1536x869.png 1536w" sizes="(max-width: 1917px) 100vw, 1917px" /></a></figure>
+
+
+<div class='printomatic pom-small-white ' id='id5576' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id5576' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-27">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>MY ROLE:</strong></p>
+
+
+
+<p><strong>Co-PI, Designer &amp; Advisor in UI/UX Design and Development</strong></p>
+
+
+
+<ul>
+<li>Supervised overall user experience</li>
+
+
+
+<li>Advised visual design concepts</li>
+
+
+
+<li>Directed the prototype creation </li>
+
+
+
+<li>Recruited the game developer</li>
+
+
+
+<li>Advised the development in Unity</li>
+
+
+
+<li>Implemented part of the program with JavaScript</li>
+
+
+
+<li>Assisted the project PI to finish the final report</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>TIME:</strong></p>
+
+
+
+<p>May 2021 &#8211; June 2022</p>
+
+
+
+<p><strong>COLLABORATED WITH:</strong></p>
+
+
+
+<ul>
+<li><a href="https://design.umn.edu/" data-type="URL" data-id="https://design.umn.edu/" target="_blank" rel="noreferrer noopener">UMN</a> Design Team Led by Malini Srivastava</li>
+
+
+
+<li><a href="https://www.ndsu.edu/sodaa/" data-type="URL" data-id="https://www.ndsu.edu/sodaa/" target="_blank" rel="noreferrer noopener">NDSU</a> Team led by Cindy Urness</li>
+</ul>
+
+
+
+<p><strong>AWARD</strong>:</p>
+
+
+
+<ul>
+<li><a href="https://www.architectmagazine.com/awards/r-d-awards/r-d-award-e-games-labefargo_o" data-type="URL" data-id="https://www.architectmagazine.com/awards/r-d-awards/r-d-award-e-games-labefargo_o" target="_blank" rel="noreferrer noopener">2022 Architect Magazine R+D award</a></li>
+</ul>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">1. Introduction</h2>
+
+
+
+<p>eFargo is an interactive game for public schools to help reduce carbon emissions and energy use to fight climate change. The students learn about energy consumption and complete awarded tasks to decrease energy waste in practice. My responsibility in this project was advising overall user experience, and user interface design, as well as prototype development with JavaScript and Unity. The project received the R+D Award offered by Architect Magazine, a top architecture design journal in the U.S. As the representative of NDSU, I was invited to the ceremony event at the Architect Live conference in Washington, D.C.</p>
+
+
+
+<h2 class="wp-block-heading">2. Design Advising</h2>
+
+
+
+<p>During the COVID-19 pandemic, the team worked together remotely. We hold weekly meetings at Zoom to get design updates and give feedback. In addition to real-time communications, we also used collaboration tools like Miro board and Google Drive to share ideas and files. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board.png"><img decoding="async" width="2880" height="1608" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board.png" alt="" class="wp-image-1738" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board.png 2880w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board-300x168.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board-1024x572.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board-768x429.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board-1536x858.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/communication-miro-board-2048x1143.png 2048w" sizes="(max-width: 2880px) 100vw, 2880px" /></a><figcaption class="wp-element-caption">The screenshot of the Miro board</figcaption></figure></div>
+
+
+<h3 class="wp-block-heading">Game UI Design</h3>
+
+
+
+<p>A senior architecture student joined us as the UI designer. We worked closely on the design and communicated frequently. </p>
+
+
+
+<div class="wp-block-jetpack-tiled-gallery is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg"><img decoding="async" srcset="https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=1500&#038;ssl=1 1500w,https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=1800&#038;ssl=1 1800w,https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?strip=info&#038;w=1921&#038;ssl=1 1921w" alt="" data-height="1081" data-id="1733" data-link="/?attachment_id=1733" data-url="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg" data-width="1921" src="https://i0.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-14-100-1024x576.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg"><img decoding="async" srcset="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=1500&#038;ssl=1 1500w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=1800&#038;ssl=1 1800w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?strip=info&#038;w=1921&#038;ssl=1 1921w" alt="" data-height="1081" data-id="1734" data-link="/?attachment_id=1734" data-url="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg" data-width="1921" src="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-47-copy-13-100-1024x576.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:49.98704%"><figure class="tiled-gallery__item"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg"><img decoding="async" srcset="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=1500&#038;ssl=1 1500w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=1800&#038;ssl=1 1800w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?strip=info&#038;w=1920&#038;ssl=1 1920w" alt="" data-height="1081" data-id="1735" data-link="/?attachment_id=1735" data-url="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg" data-width="1920" src="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-1-copy-26-100-1024x577.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:50.01296%"><figure class="tiled-gallery__item"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg"><img decoding="async" srcset="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=1200&#038;ssl=1 1200w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=1500&#038;ssl=1 1500w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=1800&#038;ssl=1 1800w,https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?strip=info&#038;w=1921&#038;ssl=1 1921w" alt="" data-height="1081" data-id="1736" data-link="/?attachment_id=1736" data-url="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg" data-width="1921" src="https://i2.wp.com/aaronyang.me/wp-content/uploads/2022/12/Artboard-16-copy-100-1024x576.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div></div></div></div>
+
+
+
+<p class="has-text-align-center has-small-font-size">Examples of game UI, designed by Java Nyamjav, advised by Aaron Yang</p>
+
+
+
+<h3 class="wp-block-heading">Interactive Prototype</h3>
+
+
+
+<p>To test our design and communicate the design with the developer, we created an interactive prototype in Adobe XD. The prototype simulates the animation and interactions on game onboarding, space construction, challenge, and rewarding. I instructed the designer on the prototype making and software use. For key interactions, I recorded video demos to help her understand better. She learned very fast and did an excellent job.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-1024x610.png" alt="" class="wp-image-1742" width="1167" height="696" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-1024x610.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-300x179.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-768x458.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-1536x916.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/prototype-2048x1221.png 2048w" sizes="(max-width: 1167px) 100vw, 1167px" /><figcaption class="wp-element-caption">Part of the prototype, designed by Java Nyamjav, advised by Aaron Yang</figcaption></figure></div>
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container"><div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo.png"><img decoding="async" width="2880" height="1580" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo.png" alt="" class="wp-image-1740" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo.png 2880w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo-300x165.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo-1024x562.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo-768x421.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo-1536x843.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/animation-demo-2048x1124.png 2048w" sizes="(max-width: 2880px) 100vw, 2880px" /></a><figcaption class="wp-element-caption">A demonstrative file showing designers the interactive prototype, created by Aaron Yang</figcaption></figure></div></div></div>
+
+
+
+<h2 class="wp-block-heading">3. Game Development</h2>
+
+
+
+<p>Considering the future maintenance and expending of the game, we selected Unity as the game engine because it is the most popular software and well documented. I helped the team recruit a game developer from the Department of Computer Science at NDSU. After interviewing five candidates, we accepted a senior student, Erick Bickler, who later joined Amazon AWS group. I designed the higher-level system and supervised his work by viewing the code and providing feedback. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="1440" height="804" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/unity-screenshot.png" alt="" class="wp-image-1743" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/unity-screenshot.png 1440w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/unity-screenshot-300x168.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/unity-screenshot-1024x572.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/unity-screenshot-768x429.png 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption">The screenshot of the Unity environment. Created by Erick Bickler, advised by Aaron Yang</figcaption></figure></div>
+
+
+<h2 class="wp-block-heading">4. Future Work</h2>
+
+
+
+<p>Currently, a small-scale testing has been finished with the hi-fi prototype, and the game in Unity is still under development. In the future, we will expand this game from a fixed design to a customizable platform that a teacher can configure the game challenges and awards for the students, which will benefit more schools.</p>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-text-align-center wp-block-heading">Other Featured Projects</h2>
+
+
+
+<div class="wp-block-columns alignwide has-text-color has-background is-layout-flex wp-container-33" style="color:#000000;background-color:#ffffff">
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><strong><a href="/adl-1-2-3/" data-type="URL" data-id="/adl-1-2-3/">ADL 1-2-3 Device</a></strong></h3>
+
+
+
+<p>A gamified system that saves young patients’ lives by finishing daily hygiene activities.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/simple-booking/" data-type="URL" data-id="/simple-booking/">Simple Booking</a></h3>
+
+
+
+<p>A space-scheduling system that helped students reserve a space in facilities during the pandemic.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/alumni-map/" data-type="URL" data-id="/alumni-map/">SoDAA Alumni Map</a></h3>
+
+
+
+<p>An interactive map that shows the alumni network of NDSU SoDAA.</p>
+</div>
+</div>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1716</post-id>	</item>
+		<item>
+		<title>SoDAA Alumni Map</title>
+		<link>/alumni-map/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 02:10:43 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=1053</guid>
+
+					<description><![CDATA[An interactive map that shows the alumni network of NDSU SoDAA.]]></description>
+										<content:encoded><![CDATA[<div class='printomatic pom-small-white ' id='id7726' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id7726' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-37">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>MY ROLE:</strong></p>
+
+
+
+<ul>
+<li><strong>Web App Design and Development</strong>
+<ul>
+<li>Interaction Design</li>
+
+
+
+<li>Visual Design</li>
+
+
+
+<li>Responsive Design</li>
+
+
+
+<li>JavaScript Development</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>TIME:</strong></p>
+
+
+
+<p>Jan. 2020 &#8211; May. 2020</p>
+
+
+
+<p><strong>TECHNOLOGIES:</strong></p>
+
+
+
+<ul>
+<li><strong>Language</strong>: HTML, CSS, JavaScript</li>
+
+
+
+<li><strong>Database</strong>: Firebase Real Time Database</li>
+
+
+
+<li><strong>Map API</strong>: Mapbox GL JS</li>
+
+
+
+<li><strong>CSS framework</strong>: Bootstrap</li>
+</ul>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+
+
+
+<h2 class="wp-block-heading">Introduction</h2>
+
+
+
+<p>NDSU the School of Design, Architecture, and Art wanted to display the alumni on an interactive map. When I received this work request, I found a bigger pain point. Previously, they updated the list of alumni manually on the website. The information is often outdated because it was hard to track everyone’s information over time. So, rather than just creating a page, I created a content management system that allows the alumni to create an account and manage their location and profile by themselves. The information will be updated on the map automatically. It was successful. And people loved it.</p>
+
+
+
+<p><mark style="background-color:var(--nv-c-1)" class="has-inline-color">My goal in this project is to create a configurable content management system that can be used for any geological-related information, not just a static design for the fixed content.</mark> So, I optimized the coding and database so that it could be easily configured for different purposes. Later, I adapted the system for the projects of other organizations, such as American Craft Council, SoDAA Advisory Board, and NCBDS 38 Conference.</p>
+</div></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-39">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="https://sodaa-alumni.web.app/map/" target="_blank" rel="noreferrer noopener">Visit the Map</a></div>
+</div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-18-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe title="SoDAA Alumni Map.mov" src="https://player.vimeo.com/video/786294574?h=c451d8709d&amp;dnt=1&amp;app_id=122963" width="1200" height="577" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Map UI Design</h2>
+
+
+<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-1024x572.png" alt="" class="wp-image-2735" width="1169" height="653" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-1024x572.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-300x168.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-768x429.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-1536x859.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-1-2048x1145.png 2048w" sizes="(max-width: 1169px) 100vw, 1169px" /></figure></div>
+
+<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Alumni-Map-7-1024x572.png" alt="" class="wp-image-2738" width="1167" height="642"/><figcaption class="wp-element-caption">The Map</figcaption></figure></div>
+
+
+<h2 class="wp-block-heading">Responsive Design</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="2273" height="1622" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01.jpg" alt="SoDAA Alumni Map mockup" class="wp-image-2766" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01.jpg 2273w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01-300x214.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01-1024x731.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01-768x548.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01-1536x1096.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Responsive-Devices-Screen-Mockup-01-2048x1461.jpg 2048w" sizes="(max-width: 2273px) 100vw, 2273px" /></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="2560" height="2072" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-scaled.jpg" alt="" class="wp-image-2878" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-scaled.jpg 2560w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-300x243.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-1024x829.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-768x622.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-1536x1243.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/3-phone-mockup-2048x1658.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure></div>
+
+
+<h2 class="wp-block-heading">User Profile</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" width="1024" height="582" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-1024x582.png" alt="" class="wp-image-3207" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-1024x582.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-300x171.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-768x437.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-1536x874.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-login-2-2048x1165.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+<div class="wp-block-image  space-top-md">
+<figure class="aligncenter size-large"><img decoding="async" width="1024" height="622" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-1024x622.png" alt="" class="wp-image-3208" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-1024x622.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-300x182.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-768x467.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-1536x933.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/02/SoDAA-Alumni-Map-profile-2-2048x1244.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<div style="height:58px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Related Projects</h2>
+
+
+
+<figure class="wp-block-gallery aligncenter has-nested-images columns-2 is-cropped wp-block-gallery-40 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1.png"><img decoding="async" width="1024" height="513" data-id="2756"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-1024x513.png" alt="" class="wp-image-2756" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-1024x513.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-300x150.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-768x385.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-1536x769.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-1-2048x1025.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">NCBDS 38 Conference Page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2.png"><img decoding="async" width="1024" height="520" data-id="2757"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-1024x520.png" alt="" class="wp-image-2757" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-1024x520.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-300x152.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-768x390.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-1536x780.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-2-2048x1041.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">SoDAA360 Home Page</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3.png"><img decoding="async" width="1024" height="519" data-id="2754"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-1024x519.png" alt="" class="wp-image-2754" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-1024x519.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-300x152.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-768x389.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-1536x778.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-3-2048x1038.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">SoDAA Faculty Achievements </figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4.png"><img decoding="async" width="1024" height="514" data-id="2755"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-1024x514.png" alt="" class="wp-image-2755" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-1024x514.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-300x151.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-768x386.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-1536x771.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/SoDAA-Maps-4-2048x1028.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">SoDAA Advisory Board Map</figcaption></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">Other projects that used this system. Click to view full-size images.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading has-text-align-center" id="thank-you">Thank you!</h2>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading has-text-align-center">Other Featured Projects</h2>
+
+
+
+<div class="wp-block-columns alignwide has-text-color has-background is-layout-flex wp-container-45" style="color:#000000;background-color:#ffffff">
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><strong><a href="/adl-1-2-3/" data-type="URL" data-id="/adl-1-2-3/">ADL 1-2-3 Device</a></strong></h3>
+
+
+
+<p>A gamified system that saves young patients’ lives by finishing daily hygiene activities.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/simple-booking/" data-type="URL" data-id="/simple-booking/">Simple Booking</a></h3>
+
+
+
+<p>A space-scheduling system that helped students reserve a space in facilities during the pandemic.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/cocook/" data-type="post" data-id="1767">CoCook</a></h3>
+
+
+
+<p>A meal kit service that helps students save time on cooking with an affordable solution.</p>
+</div>
+</div>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1053</post-id>	</item>
+		<item>
+		<title>Interaction Lab</title>
+		<link>/interaction-lab/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2022 21:12:10 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=3039</guid>
+
+					<description><![CDATA[Personal experiments and practices on webpage interaction and animation.]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Interactive Media</h2>
+
+
+
+<p>The following projects were my experiments and practices on interactive media. Please click on the images to try them in a new tab. </p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-49">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/glassmorphism-cards/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="726" height="510" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.59.09.gif" alt="" class="wp-image-3042"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/neumorphism-gradient-loader/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="574" height="341" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_16.11.18.gif" alt="" class="wp-image-3055"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/style-control-panel/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="692" height="430" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.45.52.gif" alt="" class="wp-image-3047"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/color-drawing-canvas/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="880" height="520" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/01/color-brush.gif" alt="color brush" class="wp-image-3069"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large space-top-md"><a href="https://visual-lab.pages.dev/js-css-clock/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="767" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.53.51-1024x767.png" alt="" class="wp-image-3046" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.53.51-1024x767.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.53.51-300x225.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.53.51-768x575.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.53.51.png 1404w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<div class="wp-block-cover space-top-md" style="min-height:287px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img decoding="async" width="1024" height="506" class="wp-block-cover__image-background wp-image-3166" alt="" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-4-1024x506.png" data-object-fit="cover" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-4-1024x506.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-4-300x148.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-4-768x380.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/image-4.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container">
+<p class="has-text-align-center" style="font-size:24px"><strong>AI created webpage</strong></p>
+
+
+
+<p class="has-text-align-center has-nv-c-1-color has-text-color"><a href="/ai-created-webpage/" data-type="URL" data-id="/ai-created-webpage/">Read the Story</a></p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full is-resized space-top-md"><a href="https://visual-lab.pages.dev/panel-gallery/" target="_blank" rel="noreferrer noopener"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.47.58.gif" alt="" class="wp-image-3048" width="566" height="442"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized space-top-md"><a href="https://visual-lab.pages.dev/tracking-particle/" target="_blank" rel="noreferrer noopener"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.00.26.gif" alt="" class="wp-image-3041" width="566" height="401"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized space-top-md"><a href="https://visual-lab.pages.dev/animated-navbar/" target="_blank" rel="noreferrer noopener"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_15.04.18.gif" alt="" class="wp-image-3040" width="568" height="424"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/p5js-perlin-noise-flow/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="600" height="380" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/01/ezgif-1-c5e05aac5c.gif" alt="perlin-noise-flow" class="wp-image-3187"/></a></figure>
+
+
+
+<figure class="wp-block-image size-full space-top-md"><a href="https://visual-lab.pages.dev/tri-squar/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="962" height="956" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.52.28.png" alt="" class="wp-image-3044" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.52.28.png 962w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.52.28-300x298.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.52.28-150x150.png 150w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/iShot_2023-01-18_14.52.28-768x763.png 768w" sizes="(max-width: 962px) 100vw, 962px" /></a></figure>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Other Coding Projects</h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-54">
+<div class="wp-block-column padding-md has-nv-light-bg-background-color has-background is-layout-flow">
+<h4 class="wp-block-heading">Easy Firebase-RTDB</h4>
+
+
+
+<p>This is a helper class that helps front-end developers easily connect to Firebase Realtime Database with minimum JavaScript code, without worry about backend programming. </p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="https://github.com/hua3467/easy-firebase-rtdb" target="_blank" rel="noreferrer noopener">View Code</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column padding-md has-nv-light-bg-background-color has-background is-layout-flow">
+<h4 class="wp-block-heading">JDom</h4>
+
+
+
+<p>This library helps front-end developers use JSON-structured data to create DOM elements, providing an easy way to create dynamic HTML content with JavaScript.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="https://github.com/hua3467/JDom" target="_blank" rel="noreferrer noopener">View Code</a></div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-59">
+<div class="wp-block-column padding-md has-nv-light-bg-background-color has-background is-layout-flow">
+<h4 class="wp-block-heading">GPTassist</h4>
+
+
+
+<p>GPTassit is a chatbot using GPT 3.5 model. </p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="https://mystudioseat.web.app/mychat/" target="_blank" rel="noreferrer noopener">Try it</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column padding-md has-nv-light-bg-background-color has-background is-layout-flow">
+<div class="wp-block-buttons is-layout-flex"></div>
+</div>
+</div>
+
+
+
+<p>For more coding projects, please visit <a rel="noreferrer noopener" href="https://github.com/hua3467" target="_blank">https://github.com/hua3467</a>. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://github.com/hua3467" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1474" height="292" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/03/github-contribution-2021.png" alt="" class="wp-image-3309" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/03/github-contribution-2021.png 1474w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/03/github-contribution-2021-300x59.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/03/github-contribution-2021-1024x203.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/03/github-contribution-2021-768x152.png 768w" sizes="(max-width: 1474px) 100vw, 1474px" /></a><figcaption class="wp-element-caption">My GitHub contributions in 2021. Click to view more.</figcaption></figure></div>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3039</post-id>	</item>
+		<item>
+		<title>Simple Booking 1.0</title>
+		<link>/simple-booking-v1/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 17:17:33 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[UI/UX Design]]></category>
+		<guid isPermaLink="false">/?p=1026</guid>
+
+					<description><![CDATA[Simple Booking is an online tool that helps departments track facility usage and reduce close contact during the COVID-19 pandemic. This is the first version of the project. I am working on the new version now. ]]></description>
+										<content:encoded><![CDATA[
+<style>
+.wp-block-image {
+margin-top: 80px;
+}
+.wp-block-image img {
+border: 1px solid #eee;
+}
+.video-holder {
+display: inline-block;
+position: relative;
+padding-bottom: 60%;
+width: 100%;
+}
+.video-holder iframe {
+height: 100% !important;
+position: absolute;
+top: 0; left: 0;
+width: 100% !important;
+}
+</style>
+
+
+<div class='printomatic pom-small-white ' id='id4087' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id4087' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-62">
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>MY ROLE:</strong></p>
+
+
+
+<ul>
+<li><strong>User Interface Design and Development</strong>
+<ul>
+<li>Visual Design</li>
+
+
+
+<li>Interaction Design</li>
+
+
+
+<li>Web App Development</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+<p><strong>TIME:</strong></p>
+
+
+
+<p>Sept. 2019 &#8211; Dec. 2019</p>
+
+
+
+<p><strong>TECHNOLOGIES:</strong></p>
+
+
+
+<ul>
+<li><strong>Language</strong>: HTML, CSS, JavaScript</li>
+
+
+
+<li><strong>Database</strong>: Firebase Real Time Database</li>
+</ul>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="background-color:#00000024;color:#00000024"/>
+</div></div>
+
+
+
+<div class="video-holder">
+<iframe src="https://player.vimeo.com/video/509490131" width="640" height="311" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+
+
+<h2 class="wp-block-heading">Background</h2>
+
+
+
+<p>At the beginning of COVID-19 pandemic, NDSU School of Design, Architecture, and Art (SoDAA) decided to manage and monitor space/facility usage with a scheduling system for the new semester, which means the students need to schedule a space online before they use it. At the beginning, we just wanted to find an existing product that meets our initial requirements. </p>
+
+
+
+<ol>
+<li>The user can select a space from a list of 29 and make a reservation. </li>
+
+
+
+<li>The user can delete their reservations.</li>
+
+
+
+<li>The user should be able to select a seat number for the reservation. </li>
+
+
+
+<li>All the spaces and facilities can be imported to the system easily. </li>
+</ol>
+
+
+
+<p>However, we tried 20 existing tools but didn&#8217;t find one that is easy to set up for our scenario. Therefore, we decided to create our own system. </p>
+
+
+
+<h2 class="wp-block-heading">Minimum Viable Product (MVP)</h2>
+
+
+
+<p>After analyzing the user flow of the booking process, I decided to create our own system. But the time is limited. I only have a week to create something usable. Several days later, I showed a <mark style="background-color:var(--nv-c-1)" class="has-inline-color has-neve-text-color-color">minimum viable product (MVP) </mark>to the department head, Michael. It was a simple form with the basic functions. The students can only reserve a place by entering their names, selecting a studio, picking a date and time. The only way to reschedule and cancel is to update the database by myself. But Michael was excited because at least we could have something to use be the beginning of the semester, and it was highly customized for the school. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM-1024x655.png" alt="" class="wp-image-1402" width="1024" height="655" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM-1024x655.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM-300x192.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM-768x491.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM-1536x983.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/Screen-Shot-2020-09-05-at-11.25.42-AM.png 1926w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Early MVP of the system</figcaption></figure></div>
+
+
+<h2 class="wp-block-heading">Design 1.0</h2>
+
+
+
+<p>After deploying the MVP, the school had a usable system to monitor the facilities and limit the number of people in a space. So, I got more time to design the user interface and optimize user experience. Four weeks later, a full system for the students was online. In this version, all the requirements were met. In addition, I set up an SMTP server to send the notifications to the user and created a cancellation function. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM.png"><img decoding="async" width="1024" height="563" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM-1024x563.png" alt="" class="wp-image-1045" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM-1024x563.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM-300x165.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM-768x422.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-1.43.33-PM.png 1442w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Home Page</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2.png"><img decoding="async" width="1024" height="664" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2-1024x664.png" alt="" class="wp-image-1030" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2-1024x664.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2-300x194.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2-768x498.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_2.png 1435w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Space Reservation Page (the studio is not selected)</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3.png"><img decoding="async" width="1024" height="663" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3-1024x663.png" alt="" class="wp-image-1031" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3-1024x663.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3-300x194.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3-768x497.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_3.png 1436w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Space Reservation Page (the studio and time are selected)</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4.png"><img decoding="async" width="1535" height="928" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4.png" alt="" class="wp-image-1034" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4.png 1535w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4-300x181.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4-1024x619.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_4-768x464.png 768w" sizes="(max-width: 1535px) 100vw, 1535px" /></a><figcaption class="wp-element-caption">Reservation Submission Page</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5.png"><img decoding="async" width="1024" height="502" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-1024x502.png" alt="" class="wp-image-1032" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-1024x502.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-300x147.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-768x376.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-1536x753.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_5-2048x1004.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Reservation Confirmation Page</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6.png"><img decoding="async" width="1024" height="691" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-1024x691.png" alt="" class="wp-image-1033" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-1024x691.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-300x202.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-768x518.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-1536x1036.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_6-2048x1382.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Email Confirmation</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7.png"><img decoding="async" width="1024" height="501" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-1024x501.png" alt="" class="wp-image-1035" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-1024x501.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-300x147.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-768x376.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-1536x752.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/bookingsodaa_7-2048x1002.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Reservation Cancelation by Cancelation Link</figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa.png"><img decoding="async" width="2880" height="5365" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa.png" alt="" class="wp-image-1408" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa.png 2880w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa-161x300.png 161w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa-550x1024.png 550w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa-768x1431.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa-825x1536.png 825w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/03/booking-sodaa-1099x2048.png 1099w" sizes="(max-width: 2880px) 100vw, 2880px" /></a></figure></div>
+
+
+<p>Currently, a newer version is under development. Please read the story <a href="/simple-booking/" data-type="post" data-id="1411">here</a> or at the following link: <a href="/simple-booking/">/simple-booking/</a>.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-text-align-center wp-block-heading" id="thank-you">Thank you!</h2>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-text-align-center wp-block-heading">Other Featured Projects</h2>
+
+
+
+<div class="wp-block-columns alignwide has-text-color has-background is-layout-flex wp-container-67" style="color:#000000;background-color:#ffffff">
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><strong><a href="/adl-1-2-3/" data-type="URL" data-id="/adl-1-2-3/">ADL 1-2-3 Device</a></strong></h3>
+
+
+
+<p>A gamified system that saves young patients’ lives by finishing daily hygiene activities.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/simple-booking/" data-type="URL" data-id="/simple-booking/">Simple Booking</a></h3>
+
+
+
+<p>A space-scheduling system that helped students reserve a space in facilities during the pandemic.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="wp-block-heading" style="font-size:24px;line-height:1.3"><a href="/alumni-map/" data-type="URL" data-id="/alumni-map/">SoDAA Alumni Map</a></h3>
+
+
+
+<p>An interactive map that shows the alumni network of NDSU SoDAA.</p>
+</div>
+</div>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1026</post-id>	</item>
+	</channel>
+</rss>

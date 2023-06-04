@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Thoughts &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<atom:link href="/category/thoughts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 18 Dec 2022 16:30:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-Logo_AY_-favicon-1-32x32.png</url>
+	<title>Thoughts &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
+		<title>Embed Custom Code into a WordPress Post/Page: A Better Approach</title>
+		<link>/embed-custom-code-into-a-wordpress-post-page-a-better-approach/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sun, 05 Jun 2022 03:27:47 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">/?p=1486</guid>
+
+					<description><![CDATA[I am maintaining a WordPress website for my department. As a part of that, sometimes I need to add custom code into the webpages to automize some work. At the beginning, it was not too hard. First, I finish all the code locally with a single HTML document and make sure it works properly. Second,&#8230;&#160;<a href="/embed-custom-code-into-a-wordpress-post-page-a-better-approach/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Embed Custom Code into a WordPress Post/Page: A Better Approach</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>I am maintaining a WordPress website for my department. As a part of that, sometimes I need to add custom code into the webpages to automize some work. At the beginning, it was not too hard. First, I finish all the code locally with a single HTML document and make sure it works properly. Second, I copy all the code in <code>&lt;style&gt;</code>, <code>&lt;body&gt;</code>, and<code> &lt;script&gt;</code> tags, and pasted them into a WordPress Custom HTML block. It works pretty well, just like the native WordPress element. </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="834" height="273" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/wordpress-html-block.png" alt="" class="wp-image-1487" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/wordpress-html-block.png 834w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/wordpress-html-block-300x98.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/wordpress-html-block-768x251.png 768w" sizes="(max-width: 834px) 100vw, 834px" /><figcaption class="wp-element-caption">Custom HTML block of WordPress</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">The Goal</h2>
+
+
+
+<p>I have two goals in this project.</p>
+
+
+
+<ol>
+<li>The embedded iframe should look native. </li>
+
+
+
+<li>I can edit all the source code with a native code editor and sync the page content with GitHub. </li>
+
+
+
+<li>It can be reused easily in WordPress. </li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Solutions</h2>
+
+
+
+<h3 class="wp-block-heading"> Give the embedded iframe a native look. </h3>
+
+
+
+<p>The following two functions were inspired by the solution I found on Stackoverflow. The original answer was a little bit more complex, which considered compatibility for the old browsers. The basic idea is to set the iframe height to the height of the source web page when loaded. To get that height, we can send the height from the source to the iframe. Following two functions are used:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">// The function that send the height of the source page content.
+function sendHeightForIframe(mainContainer){
+    parent.postMessage(document.querySelector(mainContainer).offsetHeight, '*');
+}
+
+// The function that receives the height from source page and set the height for the iframe.
+function getHeightForIframe(trackedIframe) {
+    // Listen for a message from the iframe.
+    window.addEventListener(&quot;message&quot;, function (e) {
+        if (isNaN(e.data)) return;
+        // replace #iTweeContainer with what ever what ever iframe id you need
+        const trackedElement = document.querySelector(trackedIframe);
+        trackedElement.style.height = e.data + 'px';
+        trackedElement.style.width = &quot;1px&quot;;
+        trackedElement.style.minWidth = &quot;100%&quot;;
+    }, false);
+}</pre></div>
+
+
+
+<p>Here is the usage of two functions. First, add the function<code> sendHeightForIframe</code> to the page to be embeded. I added the selector &#8220;body&#8221; to the parameter. </p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;Embeded Page&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body id=&quot;contentBody&quot;&gt;
+    
+  &lt;div&gt;
+  	This is the page to be embeded. 
+  &lt;/div&gt;
+
+	&lt;script&gt;
+      	sendHeightForIframe(&quot;body&quot;);
+
+		function sendHeightForIframe(mainContainer){
+            parent.postMessage(document.querySelector(mainContainer).offsetHeight + 50, '*');
+        }
+
+    &lt;/script&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</pre></div>
+
+
+
+<p>Then, I added the iframe to the target page, call the function <code>getHeightForIframe</code> and pass the id of the iframe. </p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">&lt;iframe src=&quot;url_of_the_embeded_page&quot; id=&quot;trackedIframe&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; style=&quot;min-height: 100vh&quot;&gt;&lt;/iframe&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	getHeightForIframe(&quot;#trackedIframe&quot;);
+
+  	function getHeightForIframe(trackedIframe) {
+		// Listen for a message from the iframe.
+    	window.addEventListener(&quot;message&quot;, function (e) {
+      		if (isNaN(e.data)) return;
+      		// replace #iTweeContainer with what ever what ever iframe id you need
+      		const trackedElement = document.querySelector(trackedIframe);
+      		trackedElement.style.height = e.data + 'px';
+      		trackedElement.style.width = &quot;1px&quot;;
+      		trackedElement.style.minWidth = &quot;100%&quot;;
+    	}, false);
+    }
+&lt;/script&gt;</pre></div>
+
+
+
+<h3 class="wp-block-heading">Host the source code on GitHub</h3>
+
+
+
+<p>I wrote the entire project in VS code and hosted it on GitHub. To make it visible, I created published the project with GitHub page. However, you can host it anywhere you want.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="559" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-1024x559.png" alt="" class="wp-image-1490" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-1024x559.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-300x164.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-768x419.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-1536x838.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.17.51-PM-2048x1118.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Reuse the code with short coder</h3>
+
+
+
+<p>Next, you can add the iframe code and the script to a HTML block of the WordPress page and it will work well. However, it would be inconvenient to edit and reuse. A better approach is to attach the code somewhere and insert a shortcode into the page.  To achieve that, I installed a plugin called &#8220;Shortcoder.&#8221; I create a shortcode in this plugin and pasted the code. </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="484" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-1024x484.png" alt="" class="wp-image-1573" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-1024x484.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-300x142.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-768x363.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-1536x726.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/09/image-2048x968.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the target WordPress page, I inserted the shortcode.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.23.00-PM-1024x199.png" alt="" class="wp-image-1491" width="814" height="158" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.23.00-PM-1024x199.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.23.00-PM-300x58.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.23.00-PM-768x149.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-10.23.00-PM.png 1223w" sizes="(max-width: 814px) 100vw, 814px" /></figure>
+
+
+
+<p>In this way, I can reuse the code by adding the shortcode on any page. More importantly, I can update the code with a native editor like Visual Studio Code without logging in my WordPress dashboard. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1486</post-id>	</item>
+		<item>
+		<title>Center-Surround Organization and Hermann Grid Illusion</title>
+		<link>/center-surround-organization-and-hermann-grid-illusion/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 00:51:07 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">/?p=174</guid>
+
+					<description><![CDATA[&#8220;The photoreceptors in a particular receptive field do not simply stimulate the ganglion cell, but instead are arranged in what is called a center-surround organization. For example, light falling on the center of the receptive field might result in the corresponding photoreceptor stimulate the ganglion cell (an ON response). Light falling just on the surrounding&#8230;&#160;<a href="/center-surround-organization-and-hermann-grid-illusion/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Center-Surround Organization and Hermann Grid Illusion</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="174" class="elementor elementor-174">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7e2e842 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e2e842" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c9582d4" data-id="c9582d4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1d53e95 elementor-widget elementor-widget-text-editor" data-id="1d53e95" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>&#8220;The photoreceptors in a particular receptive field do not simply stimulate the ganglion cell, but instead are arranged in what is called a center-surround organization. For example, light falling on the center of the receptive field might result in the corresponding photoreceptor stimulate the ganglion cell (an ON response). Light falling just on the surrounding ring of photoreceptors might inhibit the ganglion cells (an OFF response). This cell is an example of an ON-center, OFF-surround cell.&#8221; </p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6766b32 elementor-widget elementor-widget-image" data-id="6766b32" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+										<img decoding="async" width="132" height="128" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/On-center-OFF-surround-cell.png" class="attachment-large size-large wp-image-178" alt="" />											<figcaption class="widget-image-caption wp-caption-text">Figure1. ON-center, OFF-surround cell</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d4785e elementor-widget elementor-widget-text-editor" data-id="1d4785e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>There are two kinds of responses of ganglion cell in the center-surround organization when light falling on the receptive field: stimulate the ganglion cell, or inhibit it. If the ganglion cells in the center of receptive field are stimulated and peripheral ones are inhibited, the cell will be called ON-center, OFF-surround cell. As is shown in Figure 1, if light fall on the center of the cell, the sensitivity, or the firing rate of the whole cell will increase. But if light fall on the peripheral part of the cell, the sensitivity of the whole cell will decrease so that people may see a dark spot, even if the spot does not exist.</p><p> </p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-96b6dcd elementor-widget elementor-widget-image" data-id="96b6dcd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" width="792" height="293" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-8.01.33-PM-e1592014813558.png" class="attachment-large size-large wp-image-182" alt="" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-8.01.33-PM-e1592014813558.png 792w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-8.01.33-PM-e1592014813558-300x111.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-8.01.33-PM-e1592014813558-768x284.png 768w" sizes="(max-width: 792px) 100vw, 792px" />														</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ef1158 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ef1158" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-136ea32" data-id="136ea32" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d982e7c elementor-widget elementor-widget-text-editor" data-id="d982e7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Figure2-a. Hermann Grid</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2916206" data-id="2916206" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e400362 elementor-widget elementor-widget-text-editor" data-id="e400362" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Figure2-b. Explanation of Hermann Grid</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-dbb9435 elementor-widget elementor-widget-text-editor" data-id="dbb9435" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>One of the most classical examples of this is Hermann Grid illusion (Figure 2-a). When viewing the Hermann Grid, people will see the faint dark spots that appear at the intersections of the white lines. In Figure 2-b, compared to cell 1, cell 2 on the intersection has more OFF cells activated (marked with rad minus), which means more inhibition on cell 2. So it is less sensitive than cell 1. Therefore, we see dark spot at the intersection. Actually, if you look carefully at the grid, you probably see very faint dark lines between every black square, which is extracted below (Figure 3-a). On the center of the white line, more surrounding photoreceptors (OFF cells) are stimulated by light, so that more center photoreceptors are inhibited from perceiving the light.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d6dfcf5 elementor-widget elementor-widget-image" data-id="d6dfcf5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+										<img decoding="async" width="467" height="291" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-faint-dark-area-we-see-on-Hermann-Grid.png" class="attachment-large size-large wp-image-179" alt="" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-faint-dark-area-we-see-on-Hermann-Grid.png 467w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-faint-dark-area-we-see-on-Hermann-Grid-300x187.png 300w" sizes="(max-width: 467px) 100vw, 467px" />											<figcaption class="widget-image-caption wp-caption-text">Figure3. The faint dark area we see on Hermann Grid</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ba0cece elementor-widget elementor-widget-text-editor" data-id="ba0cece" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The function of center-surround organization can also reflect on some LOGO design. With single color, they produce ingenious chiaroscuro. Take the example of Figure 4, the logo of Woolmark. When looking at the logo, you might notice that the space between the lines is not pure white. Certain parts of them seem little brighter, which are marked with green on Figure 4-b. That’s because these areas are at the end of the gaps. There will be less light falling on the ganglion cell, and the OFF-surround cells do not produce too much inhibition. So, we feel these areas are brighter, just like there are some light leaks from the inside of the wool ball.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0989c16 elementor-widget elementor-widget-image" data-id="0989c16" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+										<img decoding="async" width="655" height="346" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-logo-of-Woolmark.png" class="attachment-medium_large size-medium_large wp-image-177" alt="" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-logo-of-Woolmark.png 655w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/The-logo-of-Woolmark-300x158.png 300w" sizes="(max-width: 655px) 100vw, 655px" />											<figcaption class="widget-image-caption wp-caption-text">Figure4. The logo of Woolmark</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9257686 elementor-widget elementor-widget-text-editor" data-id="9257686" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><strong>Sources:</strong></p><p>Grid illusion: https://en.wikipedia.org/wiki/Grid_illusion</p><p>Making Sense of the Hermann Grid Illusion: http://www.rosslab.neurobio.pitt.edu/making-sense-of-the-hermann-grid-illusion/</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">174</post-id>	</item>
+		<item>
+		<title>Beyond what We See in Color: Color Constancy</title>
+		<link>/beyond-what-we-see-in-color-color-constancy/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 00:38:45 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">/?p=165</guid>
+
+					<description><![CDATA[Our visual system has the ability to distinguish colors of objects and ignore the color or the wavelength of light source. This phenomenon is called&#160;color constancy. For example, following&#160;figure shows what our visual system can perceive from a colorful cube when it is illuminated by different color light. In the picture above, we can distinguish&#8230;&#160;<a href="/beyond-what-we-see-in-color-color-constancy/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Beyond what We See in Color: Color Constancy</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="165" class="elementor elementor-165">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-10c3c845 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10c3c845" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-111a91c1" data-id="111a91c1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-56902a03 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="56902a03" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><!-- wp:paragraph --></p>
+<p>Our visual system has the ability to distinguish colors of objects and ignore the color or the wavelength of light source. This phenomenon is called&nbsp;<strong>color constancy</strong>. For example, following&nbsp;figure shows what our visual system can perceive from a colorful cube when it is illuminated by different color light.</p>
+<p><!-- /wp:paragraph --><!-- wp:image {"id":166,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img decoding="async" class="alignnone wp-image-166 size-full" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2020/06/b1622a_8e3cc06d010c4ed992b1b6ade0e81845_mv2.gif" alt="" width="1156" height="462"></figure>
+<p><!-- /wp:image --><!-- wp:paragraph --></p>
+<p>In the picture above, we can distinguish red, blue, yellow and green squares, even though the cubes are illuminated by yellow and blue light. However, when color was extracted from the image, we may find that the real color of the cube is not what we see. In the left picture, the ‘red’ is actually orange and the ‘blue’ is actually cool gray. In the right picture, the ‘red’ is actually purple and the ‘yellow’ is actually gray. (Images are from: Lotto, R. Beau, Surajit Nundy, and Dale&nbsp;Purves. &#8220;Why we see what we do: a probabilistic strategy based on past experience explains the remarkable difference between what we see and physical reality.&#8221; )</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>How does our vision system have the ability of color constancy? According to German Biologist Von Campenhausen’s theory, we gain this ability during the evolution of our vision system. In the natural world, one important way for animals to distinguish edible food or avoid potential danger is of color. But natural daylight is not constant. During morning and dusk, the color of skylight looks warm; and during the middle of the day, it will be cool. As a result, the color of objects also varies accordingly. This may cause threatening to survival because the animal may fail to find right food or recognize the toxic fruit. With vision evolution and experience accumulation, human and many animals evolve the color constancy, which makes the vision system can always distinguish the color of objects in the varied environment.</p><p><br></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p><strong>References:</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>Lotto, R. Beau, Surajit&nbsp;Nundy, and Dale Purves.<em>&nbsp;&#8220;Why we see what we do: a probabilistic strategy based on past experience explains the remarkable difference between what we see and physical reality.&#8221;</em></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>American Scientist 90.3 (2002): 236+.&nbsp;<em>Biography in Context.</em>&nbsp;Web. 14 Sept. 2015.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>Vincent Walsh, Janusz Kulikowski:&nbsp;<em>“Perceptual Constancy:&nbsp;Why Things Look as They Do.”</em>&nbsp;Cambridge University Press. 13&nbsp;August,&nbsp;1998. P324.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>Martin J. Tovée.&nbsp;<em>“An Introduction to the Visual System.</em>” Cambridge University Press; 2 edition (July 14, 2008).</p>
+<p><!-- /wp:paragraph --></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">165</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Aaron Yang | UI/UX Designer, User Researcher, Website Developer	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Jan 2023 19:56:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>
+		Comment on CoCook by SoDAA Alumni Map &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/cocook/#comment-9</link>
+
+		<dc:creator><![CDATA[SoDAA Alumni Map &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2023 17:20:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1767#comment-9</guid>
+
+					<description><![CDATA[[&#8230;] CoCook [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] CoCook [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Photography by You see, UC! &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/projects/photography/#comment-7</link>
+
+		<dc:creator><![CDATA[You see, UC! &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 22:01:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-7</guid>
+
+					<description><![CDATA[[&#8230;] Projects / Photography / You see, [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Projects / Photography / You see, [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Photography by The Vertical City &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/projects/photography/#comment-6</link>
+
+		<dc:creator><![CDATA[The Vertical City &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 22:01:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-6</guid>
+
+					<description><![CDATA[[&#8230;] Projects / Photography / the Vertical [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Projects / Photography / the Vertical [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Photography by The Form of Fireworks &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/projects/photography/#comment-5</link>
+
+		<dc:creator><![CDATA[The Form of Fireworks &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 22:00:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-5</guid>
+
+					<description><![CDATA[[&#8230;] Projects / Photography / the Form of [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Projects / Photography / the Form of [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Photography by A Moment in Fargo: the Broadway Stories &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/projects/photography/#comment-4</link>
+
+		<dc:creator><![CDATA[A Moment in Fargo: the Broadway Stories &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 21:58:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-4</guid>
+
+					<description><![CDATA[[&#8230;] / All Projects / Photography / A Moment in Fargo: the Broadway [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] / All Projects / Photography / A Moment in Fargo: the Broadway [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Photography by The Gold Land of Dakotas &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer		</title>
+		<link>/projects/photography/#comment-3</link>
+
+		<dc:creator><![CDATA[The Gold Land of Dakotas &#8211; Aaron Yang &#124; UI/UX Designer, User Researcher, Website Developer]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 21:57:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-3</guid>
+
+					<description><![CDATA[[&#8230;] / All Projects / Photography / the Gold Land od [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] / All Projects / Photography / the Gold Land od [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

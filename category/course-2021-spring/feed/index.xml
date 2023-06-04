@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Course 2021 Spring &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<atom:link href="/category/course-2021-spring/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 27 Mar 2022 19:39:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-Logo_AY_-favicon-1-32x32.png</url>
+	<title>Course 2021 Spring &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
+		<title>User Experience in Form Design</title>
+		<link>/uxinformdesign/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 05:44:24 +0000</pubDate>
+				<category><![CDATA[Course 2021 Spring]]></category>
+		<guid isPermaLink="false">/?p=1260</guid>
+
+					<description><![CDATA[Form is way of communication The content of this section is from Jessica Enders&#8217; book, Design UX: Forms: Create Forms That Don&#8217;t Drive Your User Crazy (Aspects of UX) Four-state Model for Question Answering Comprehension: understanding words and meaning Retrieval: searching memory, feelings, thoughts, and resources Judgement: checking answer suitability and making adjustments Answering: physically&#8230;&#160;<a href="/uxinformdesign/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">User Experience in Form Design</span></a>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-buttons is-layout-flex"></div>
+
+
+
+<h2 class="wp-block-heading" id="form-is-way-of-communication">Form is way of communication</h2>
+
+
+
+<p>The content of this section is from Jessica Enders&#8217; book, <em>Design UX: Forms: Create Forms That Don&#8217;t Drive Your User Crazy (Aspects of UX)</em></p>
+
+
+
+<h3 class="wp-block-heading" id="four-state-model-for-question-answering">Four-state Model for Question Answering</h3>
+
+
+
+<ol><li><strong>Comprehension</strong>: understanding words and meaning</li><li><strong>Retrieval</strong>: searching memory, feelings, thoughts, and resources</li><li><strong>Judgement</strong>: checking answer suitability and making adjustments</li><li><strong>Answering</strong>: physically providing the answer.</li></ol>
+
+
+
+<div style="height:54px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading" id="comprehension">Comprehension</h4>
+
+
+
+<p><strong>Use plain language: </strong></p>
+
+
+
+<ul><li>shorter, simpler words </li><li>shorter, simpler sentences, each of which expresses just one idea </li><li>the active voice </li><li>words that are familiar to the person filling out the form.</li></ul>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-4">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-1.png" alt="" class="wp-image-1266" width="361" height="153" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-1.png 580w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-1-300x127.png 300w" sizes="(max-width: 361px) 100vw, 361px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-2.png" alt="" class="wp-image-1267" width="372" height="154" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-2.png 570w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-2-300x124.png 300w" sizes="(max-width: 372px) 100vw, 372px" /></figure>
+</div>
+</div>
+
+
+
+<p><strong>Avoid ambiguity</strong></p>
+
+
+
+<p>&#8211; <em>&#8220;Where do you work?&#8221;</em></p>
+
+
+
+<p>&#8211; <em>&#8220;I work for Google.&#8221;</em> or <em>&#8220;I work in Fargo.&#8221;</em> or <em>&#8220;I work at home.&#8221;</em></p>
+
+
+
+<p></p>
+
+
+
+<div style="height:44px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading" id="retrieval">Retrieval </h4>
+
+
+
+<p>Ask the questions that users can easily answer. </p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading" id="judgement"><strong>Judgement</strong></h4>
+
+
+
+<p>Let the user know why you ask the questions. and provide instructions.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-2-edited.jpg" alt="" class="wp-image-1265" width="881" height="495" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-2-edited.jpg 1154w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-2-edited-300x169.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-2-edited-1024x577.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-2-edited-768x433.jpg 768w" sizes="(max-width: 881px) 100vw, 881px" /></figure></div>
+
+
+
+<h3 class="wp-block-heading" id="create-a-welcome-screen">Create a welcome screen</h3>
+
+
+
+<p>This could be followed by an introduction page. If you put everything in one page. The user probably would not read the paragraphs.</p>
+
+
+
+<h3 class="wp-block-heading" id="then-start-to-tell-the-story">Then start to tell the story</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="1382" height="2430" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4.png" alt="" class="wp-image-1278" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4.png 1382w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4-171x300.png 171w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4-582x1024.png 582w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4-768x1350.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4-874x1536.png 874w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-4-1165x2048.png 1165w" sizes="(max-width: 1382px) 100vw, 1382px" /><figcaption>https://uxplanet.org/narrative-wireframes-83cdef316b76</figcaption></figure></div>
+
+
+
+<h3 class="wp-block-heading" id="yours-or-mine">Yours or Mine?</h3>
+
+
+
+<p>What pronoun to use</p>
+
+
+
+<div style="height:52px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center" style="font-size:24px">Are your users telling their stories? </p>
+
+
+
+<p class="has-text-align-center" style="font-size:24px">or </p>
+
+
+
+<p class="has-text-align-center" style="font-size:24px">Are they having conversations with you?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-6-846x1024.png" alt="" class="wp-image-1285" width="203" height="246" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-6-846x1024.png 846w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-6-248x300.png 248w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-6-768x929.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/image-6.png 952w" sizes="(max-width: 203px) 100vw, 203px" /></figure></div>
+
+
+
+<h2 class="wp-block-heading" id="types-of-forms">Types of Forms</h2>
+
+
+
+<h3 class="wp-block-heading" id="stepper-form">Stepper Form</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://user-images.githubusercontent.com/4812055/39086481-abc6a728-4557-11e8-8a27-83aab97a15c4.png" alt=""/><figcaption>https://user-images.githubusercontent.com/4812055/39086481-abc6a728-4557-11e8-8a27-83aab97a15c4.png</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://miro.medium.com/max/2400/1*YSIccXXP_aw-EsCGkbXF_g.png" alt=""/><figcaption>https://miro.medium.com/max/2400/1*YSIccXXP_aw-EsCGkbXF_g.png</figcaption></figure>
+
+
+
+<div style="height:81px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading" id="natural-language-form">Natural Language Form</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://cdn.wpforms.com/wp-content/uploads/2019/05/user-interface-contact-forms.jpg" alt=""/><figcaption>https://cdn.wpforms.com/wp-content/uploads/2019/05/user-interface-contact-forms.jpg</figcaption></figure></div>
+
+
+
+<div style="height:73px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://cdn.wpforms.com/wp-content/uploads/2019/05/form-language-design-example.gif" alt=""/><figcaption><a href="https://cdn.wpforms.com/wp-content/uploads/2019/05/form-language-design-example.gif">https://cdn.wpforms.com/wp-content/uploads/2019/05/mad-libs-style-form-user-experience.jpg</a></figcaption></figure></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading" id="conversational-form">Conversational Form</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-6.png"><img decoding="async" width="1024" height="455" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-6.png" alt="" class="wp-image-1262" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-6.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-6-300x133.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/form-design-6-768x341.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>https://www.wearebrain.com/blog/customer-ux-ui/designing-and-adapting-scripts-conversational-ux/</figcaption></figure>
+
+
+
+<div style="height:71px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://uploads.toptal.io/blog/image/123044/toptal-blog-image-1494495723408-08ba66e61574709b9503b84f945d46d4.jpg"><img decoding="async" src="https://uploads.toptal.io/blog/image/123044/toptal-blog-image-1494495723408-08ba66e61574709b9503b84f945d46d4.jpg" alt=""/></a><figcaption>https://uploads.toptal.io/blog/image/123044/toptal-blog-image-1494495723408-08ba66e61574709b9503b84f945d46d4.jpg</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1260</post-id>	</item>
+		<item>
+		<title>User Interface Design Documents and Deliverables</title>
+		<link>/user-interface-design-and-deliverables/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 23:00:30 +0000</pubDate>
+				<category><![CDATA[Course 2021 Spring]]></category>
+		<guid isPermaLink="false">/?p=1059</guid>
+
+					<description><![CDATA[On this page, I listed some essential documents of the user interface design and their purpose. Most examples I used are from my previous project. You can find the full project at&#160;/cocook. During the design process, those documents will not only help you communicate with your team but also give you inspiration and a better&#8230;&#160;<a href="/user-interface-design-and-deliverables/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">User Interface Design Documents and Deliverables</span></a>]]></description>
+										<content:encoded><![CDATA[
+<style>
+.wp-block-image {
+margin-top: 80px;
+}
+.wp-block-image img {
+border: 1px solid #eee;
+}
+
+h2 {
+margin-top: 60px;
+}
+.video-holder {
+display: inline-block;
+position: relative;
+padding-bottom: 60%;
+width: 100%;
+}
+.video-holder iframe {
+height: 100% !important;
+position: absolute;
+top: 0; left: 0;
+width: 100% !important;
+}
+</style>
+
+
+
+<p>On this page, I listed some essential documents of the user interface design and their purpose. Most examples I used are from my previous project. You can find the full project at&nbsp;<a href="/cocook" target="_blank" rel="noreferrer noopener">/cocook</a>. During the design process, those documents will not only help you communicate with your team but also give you inspiration and a better understanding of your design.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Sketches</h2>
+
+
+
+<p>The sketch is the language of a designer. You should use it frequently to communicate with your design team and developers. In Figure 1, our team use quick sketches to do brainstorming and discuss the design concepts. In Figure 2, you can see a lot of details in the wireframes. I used this to deliver my design ideas and collect feedback from visual designers and developers. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/IMG_4729-768x1024.jpg" alt="" class="wp-image-1062" width="468" height="622"/><figcaption>Figure 1. Quick Sketches in the early stage</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches.jpg"><img decoding="async" width="2206" height="936" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches.jpg" alt="" class="wp-image-1061" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches.jpg 2206w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches-300x127.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches-1024x434.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches-768x326.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches-1536x652.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/wireframe_sketches-2048x869.jpg 2048w" sizes="(max-width: 2206px) 100vw, 2206px" /></a><figcaption>Figure 2. The detailed sketches of the webpage design. </figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Digital Wireframe</h2>
+
+
+
+<p>Digital wireframes are high-fidelity mock-ups with more details. In the example below, I defined the page layout, element size and put actual text into then. With this, you can build prototype to do the usability test and show your developers how it looks so that they can start to create the framework of the system. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="909" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/f_6-pay1Asset-30xhdpi-1024x909.png" alt="" class="wp-image-1063" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/f_6-pay1Asset-30xhdpi-1024x909.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/f_6-pay1Asset-30xhdpi-300x266.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/f_6-pay1Asset-30xhdpi-768x681.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/f_6-pay1Asset-30xhdpi.png 1367w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Digital wireframe of the payment page.  </figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Visual Design</h2>
+
+
+
+<p>This is an important document. If you want to accurately implement your design (e.g., color, font, icons, etc. ), you must send this to your developer. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli.jpg"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-1024x598.jpg" alt="" class="wp-image-1064" width="1024" height="598" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-1024x598.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-300x175.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-768x448.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-1536x897.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/cocook_visual_pay_2_spli-2048x1196.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>The final design of the payment page. You should deliver this to your development team.</figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Assets</h2>
+
+
+
+<p>When you finish your design, prepare all the icons or images that will be used in the actual website or app. You need to save them in PNG, SVG (both for icons), gif (aminated icons), or jpg (for photos) formats and send them to your developers. They could not create such assets from the previous documents.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="2222" height="1116" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM.png" alt="" class="wp-image-1070" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM.png 2222w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM-300x151.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM-1024x514.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM-768x386.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM-1536x771.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-5.20.11-PM-2048x1029.png 2048w" sizes="(max-width: 2222px) 100vw, 2222px" /></figure></div>
+
+
+
+<h2 class="wp-block-heading">Storyboard</h2>
+
+
+
+<p>During the concept development process, you can use the storyboard to simulate the scenarios of the service. You may show this to your manager, marketing team, and other designers. If you are creating a video, the storyboard is the sketch to develop and discuss your ideas.</p>
+
+
+
+<div class="wp-block-image storyboard-img"><figure class="aligncenter size-large"><img decoding="async" width="651" height="1024" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard-651x1024.jpg" alt="" class="wp-image-1065" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard-651x1024.jpg 651w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard-191x300.jpg 191w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard-768x1208.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard-977x1536.jpg 977w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/storyboard.jpg 1200w" sizes="(max-width: 651px) 100vw, 651px" /><figcaption>I used this storyboard to simulate the scenarios of how user use your service/app.</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="791" height="1024" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/green_lantern_thumbs_from_into_the_abyss_02_by_fierymonk_d4v4z70-fullview-791x1024.jpg" alt="" class="wp-image-1105" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/green_lantern_thumbs_from_into_the_abyss_02_by_fierymonk_d4v4z70-fullview-791x1024.jpg 791w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/green_lantern_thumbs_from_into_the_abyss_02_by_fierymonk_d4v4z70-fullview-232x300.jpg 232w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/green_lantern_thumbs_from_into_the_abyss_02_by_fierymonk_d4v4z70-fullview-768x994.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/green_lantern_thumbs_from_into_the_abyss_02_by_fierymonk_d4v4z70-fullview.jpg 900w" sizes="(max-width: 791px) 100vw, 791px" /><figcaption>An example of the storyboard for movie. <br>source: <a href="https://www.deviantart.com/fierymonk/art/Green-Lantern-Thumbs-From-Into-the-Abyss-02-294165036" target="_blank" rel="noreferrer noopener">https://www.deviantart.com/fierymonk/art/Green-Lantern-Thumbs-From-Into-the-Abyss-02-294165036</a> </figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Workflow Diagrams</h2>
+
+
+
+<p>Workflow diagrams are used to demonstrate the process of an activity. They are helpful when you want to show how the thing works or how the user uses your product. You can use this diagram to document or communicate your design concepts with your design team in the early stage or demonstrate the website design details.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-4.32.57-PM-867x1024.png" alt="" class="wp-image-1060" width="732" height="865" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-4.32.57-PM-867x1024.png 867w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-4.32.57-PM-254x300.png 254w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-4.32.57-PM-768x907.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-4.32.57-PM.png 1060w" sizes="(max-width: 732px) 100vw, 732px" /><figcaption> The workflow that demonstrates how a group of users order food online, cook and deliver meals as a team.</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="1749" height="2838" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig.png" alt="" class="wp-image-1068" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig.png 1749w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig-185x300.png 185w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig-631x1024.png 631w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig-768x1246.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig-947x1536.png 947w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/02/flow_CoCookbig-1262x2048.png 1262w" sizes="(max-width: 1749px) 100vw, 1749px" /><figcaption>The detailed payment flow chart showing the interaction between users and the website. This will be delivered to the development team. </figcaption></figure></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1059</post-id>	</item>
+		<item>
+		<title>Note</title>
+		<link>/note/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2021 16:14:24 +0000</pubDate>
+				<category><![CDATA[Course 2021 Spring]]></category>
+		<guid isPermaLink="false">/?p=1024</guid>
+
+					<description><![CDATA[Thank you for participating this study. To prevent the spread of COVID-19, all the researchers and participants are required to wear face coverings in the building. Before you enter the office, please&#160;download the screening form, print, and complete it, then bring it to me. Important: If you were confirmed with COVID-19, or had contact* with&#8230;&#160;<a href="/note/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Note</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Thank you for participating this study.</p>
+
+
+
+<p>To prevent the spread of COVID-19, all the researchers and participants are required to wear face coverings in the building. Before you enter the office, please&nbsp;<a href="https://touch2pass.xyz/COVID-19%20Screening%20Form.docx" target="_blank" rel="noreferrer noopener">download the screening form</a>, print, and complete it, then bring it to me.</p>
+
+
+
+<p><strong>Important</strong>: If you were confirmed with COVID-19, or had contact* with a person with a confirmed case of COVID-19, or had any of following symptoms, please reschedule this study 14 days later:</p>
+
+
+
+<ul><li>Have you had a fever within the last 14 days?</li><li>Have you had a forceful dry cough or productive cough within the last 14 days?</li><li>Have you had difficulty breathing or shortness of breath within the last 14 days?</li><li>Have you had a sore throat within the last 14 days?</li></ul>
+
+
+
+<p>*Contact is defined as less than 6 feet separation for more than 15 minutes without adequate personal protective equipment.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button is-style-default"><a class="wp-block-button__link has-nv-text-dark-bg-color has-neve-link-color-background-color has-text-color has-background" href="/appointment/">Start schedule</a></div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1024</post-id>	</item>
+	</channel>
+</rss>

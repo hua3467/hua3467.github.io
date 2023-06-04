@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pro JS for Web Dev Notes &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<atom:link href="/category/projsnotes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Sep 2020 01:54:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-Logo_AY_-favicon-1-32x32.png</url>
+	<title>Pro JS for Web Dev Notes &#8211; Aaron Yang | UI/UX Designer, User Researcher, Website Developer</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
+		<title>Objects</title>
+		<link>/objects/</link>
+					<comments>/objects/#respond</comments>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2020 00:46:19 +0000</pubDate>
+				<category><![CDATA[Pro JS for Web Dev Notes]]></category>
+		<guid isPermaLink="false">/?p=691</guid>
+
+					<description><![CDATA[Types of Properties According to ECMA-262, properties are internal-only attributes. We can use [[]] to indicate an internal attribute, like [[Enumerable]]. They are not accessible in JavaScript. Data Properties Properties Description Default [[Configurable]] Indicates if the property may be redefined. true [[Enumerable]] Indicates if the property will be returned in a for-in loop true [[Writable]]&#8230;&#160;<a href="/objects/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Objects</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Types of Properties</h2>
+
+
+
+<p>According to ECMA-262, properties are internal-only attributes. We can use [[]] to indicate an internal attribute, like [[Enumerable]]. They are not accessible in JavaScript.</p>
+
+
+
+<h3 class="wp-block-heading">Data Properties</h3>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Properties</th><th>Description</th><th>Default</th></tr></thead><tbody><tr><td>[[Configurable]]</td><td>Indicates if the property may be redefined.</td><td>true</td></tr><tr><td>[[Enumerable]]</td><td>Indicates if the property will be returned in a for-in loop</td><td>true</td></tr><tr><td>[[Writable]]</td><td>Indicates if the property’s value can be changed</td><td>true</td></tr><tr><td>[[Value]]</td><td>Contains the actual data value for the property.</td><td>assigned value when created</td></tr></tbody></table><figcaption>Data Properties</figcaption></figure>
+
+
+
+<p>Example 1</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {
+  name: &quot;Aaron Yang&quot;
+};</pre></div>
+
+
+
+<p>This object has a property called &#8220;name&#8221; with a value of &#8220;Aaron Yang.&#8221; You can change it as you want.  </p>
+
+
+
+<p>Example 2</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {};
+Object.defineProperty(person, &quot;name&quot;, {
+  writable: false,
+  value: &quot;Aaron Yang&quot;
+});
+console.log(person.name);   // &quot;Aaron Yang&quot;
+person.name = &quot;Emily&quot;;      // since the writable property was set to false, you cannot change this value
+console.log(person.name);   // &quot;Aaron Yang&quot;</pre></div>
+
+
+
+<p>Example 3</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {};
+Object.defineProperty(person, &quot;name&quot;, {
+  configurable: false,
+  value: &quot;Aaron Yang&quot;
+});
+console.log(person.name);    // &quot;Aaron Yang&quot;
+delate person.name;          // Since the property [[Configurable]] was set to false, you cannot change or delete it.
+console.log(person.name);    // &quot;Aaron Yang&quot;</pre></div>
+
+
+
+<p>If a property was defined as nonconfigurable, any attempt to call Object.defineProperty() and change any attribute other than writable causes an error.</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {};
+Object.defineProperty(person, &quot;name&quot;, {
+  configurable: false,
+  value: &quot;Aarn&quot;
+});
+
+// Throws an error
+Object.defineProperty(person, &quot;name&quot;, {
+  configurale: true,
+  value: &quot;Aaron;
+});</pre></div>
+
+
+
+<h3 class="wp-block-heading">Accessor Properties</h3>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Properties</th><th>Description</th><th>Default</th></tr></thead><tbody><tr><td>[[Configurable]]</td><td>Indicates if the property may be redefined.</td><td>true</td></tr><tr><td>[[Enumerable]]</td><td>Indicates if the property will be returned in a for-in loop</td><td>true</td></tr><tr><td>[[Get]]</td><td>Indicates if the property’s value can be changed</td><td>undefined</td></tr><tr><td>[[Set]]</td><td>Contains the actual data value for the property.</td><td>undefined</td></tr></tbody></table><figcaption>Data Properties</figcaption></figure>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">// Define object with pseudo-private member 'year_'
+// and public member 'edition'
+let book = {
+  year_: 2017,
+  efition: 1
+};
+
+Object.defineProperty(book, &quot;year&quot;, {
+  get() {
+    return this.year_;
+  },
+  set(newValue) {
+    if (newValue &gt; 2017) {
+      this.year_ = newValue;
+      this.edition += newValue - 2017;
+    }
+  }
+});
+book.year = 2018;
+console.log(book.edition);  // 2</pre></div>
+
+
+
+<h2 class="wp-block-heading">Create an Object</h2>
+
+
+
+<p>Create an object and add properties and methods to it:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = new Object();
+person.name = &quot;Aaron Yang&quot;;
+person.age = 34;
+person.job = &quot;Designer&quot;;
+person.sayName = function() {
+  console.log(this.name);
+};</pre></div>
+
+
+
+<p>Another way of creating an object:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {
+  name: &quot;Aaron Yang&quot;,
+  age: 34,
+  job: &quot;Designer&quot;,
+  sayName() {
+    console.log(this.name);
+  }
+}</pre></div>
+
+
+
+<h2 class="wp-block-heading">Enhanced Object Syntax</h2>
+
+
+
+<p>Property Value Shorthand</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let name = &quot;Matt&quot;;
+let person = {
+  name: name
+};
+console.log(person);   // { name: &quot;Matt&quot; }</pre></div>
+
+
+
+<p>A better version</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let name = &quot;Matt&quot;;
+let person = {
+  name
+};
+console.log(person);   // { name: &quot;Matt&quot; }</pre></div>
+
+
+
+<p>Minifiers will preserve property names between scopes to prevent breaking references.</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">function makePerson(name) {
+  return {
+    name
+  };
+}
+
+let person = makePerson(&quot;Aaron&quot;);
+console.log(person.name);    // Aaron</pre></div>
+
+
+
+<h3 class="wp-block-heading">Computed Property Keys</h3>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">const nameKey = &quot;name&quot;;
+const ageKey = &quot;age&quot;;
+const jobKey = &quot;job&quot;;
+
+let person = {};
+person[nameKey] = &quot;Aaron&quot;;
+person[ageKey] = &quot;34&quot;;
+person[jobKey] = &quot;Designer&quot;;
+
+console.log(person);    // { name: &quot;Aaron&quot;, age: 34, job: &quot;Designer&quot; }</pre></div>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">const nameKey = &quot;name&quot;;
+const ageKey = &quot;age&quot;;
+const jobKey = &quot;job&quot;;
+
+let person = {
+  [nameKey] = &quot;Aaron&quot;;
+  [ageKey] = &quot;34&quot;;
+  [jobKey] = &quot;Designer&quot;;  
+};  
+
+console.log(person);    // { name: &quot;Aaron&quot;, age: 34, job: &quot;Designer&quot; }</pre></div>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Concise Method Syntax</h3>
+
+
+
+<p>An object with function:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {
+  sayName: function(name) {
+    console.log(`My name is ${name}`);
+  }
+};</pre></div>
+
+
+
+<p>A shorthand version:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {
+  sayName(name) {
+    console.log(`My name is ${name}`);
+  }
+};</pre></div>
+
+
+
+<p>Also applicable to the getter and setter:</p>
+
+
+
+<div class="wp-block-codemirror-blocks-code-block code-block"><pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;lineNumbers&quot;:true,&quot;styleActiveLine&quot;:false,&quot;lineWrapping&quot;:true,&quot;readOnly&quot;:true,&quot;language&quot;:&quot;JavaScript&quot;,&quot;modeName&quot;:&quot;js&quot;}">let person = {
+  name_: &quot;&quot;,
+  get name() {
+    return this.name_;
+  },
+  set name(name) {
+    this.name_ = name;
+  },
+  sayName() {
+    console.log(`My name is ${this.name_}`);
+  }
+};
+
+person.name.= &quot;Aaron&quot;;
+person.sayName();    // My name is Aaron</pre></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/objects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">691</post-id>	</item>
+	</channel>
+</rss>
