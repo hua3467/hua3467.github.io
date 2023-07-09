@@ -15,7 +15,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Apr 2023 15:12:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Mar 2023 17:28:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,26 +31,6 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
-		<title>Zoom</title>
-		<link>/zoom/</link>
-					<comments>/zoom/#respond</comments>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Wed, 19 Apr 2023 15:12:37 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3323</guid>
-
-					<description><![CDATA[https://ndsu.zoom.us/j/4799531858]]></description>
-										<content:encoded><![CDATA[
-<p><a href="https://ndsu.zoom.us/j/4799531858">https://ndsu.zoom.us/j/4799531858</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/zoom/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3323</post-id>	</item>
-		<item>
 		<title>Protected: Mizuho OSI Surgical Table</title>
 		<link>/mizuho-osi-surgical-table/</link>
 					<comments>/mizuho-osi-surgical-table/#respond</comments>
@@ -72,41 +52,6 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3223</post-id>	</item>
-		<item>
-		<title>Protected: ppt</title>
-		<link>/ppt/</link>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Sun, 12 Feb 2023 04:21:11 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3192</guid>
-
-					<description><![CDATA[There is no excerpt because this is a protected post.]]></description>
-										<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
-<p>This content is password protected. To view it please enter your password below:</p>
-<p><label for="pwbox-3192">Password: <input name="post_password" id="pwbox-3192" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
-</form>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3192</post-id>	</item>
-		<item>
-		<title>The Taste of Ink</title>
-		<link>/the-taste-of-ink/</link>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Thu, 19 Jan 2023 16:28:33 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3075</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-684x1024.jpg" alt="Icon design with the style of Chinese traditional painting." class="wp-image-3076" width="1147" height="1717" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-684x1024.jpg 684w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-201x300.jpg 201w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-768x1149.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-1027x1536.jpg 1027w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-1369x2048.jpg 1369w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-scaled.jpg 1711w" sizes="(max-width: 1147px) 100vw, 1147px" /></figure></div>]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3075</post-id>	</item>
 		<item>
 		<title>Simple Booking: Demo</title>
 		<link>/booking-demo/</link>
@@ -157,43 +102,6 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1337</post-id>	</item>
-		<item>
-		<title>User Study Information on COVID-19</title>
-		<link>/user-study-information/</link>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Wed, 07 Apr 2021 16:03:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1322</guid>
-
-					<description><![CDATA[Thank you for participating this study. During this semester, the door of office 258 will remain locked. When you arrive, please send me a message to&#160;zhenhua.yang.1@ndsu.edu&#160;or 513-432-8923. Then I will open the door for you. To prevent the spread of COVID-19, all the researchers and participants are required to wear face coverings in the building.&#8230;&#160;<a href="/user-study-information/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">User Study Information on COVID-19</span></a>]]></description>
-										<content:encoded><![CDATA[
-<p>Thank you for participating this study.</p>
-
-
-
-<p>During this semester, the door of office 258 will remain locked. When you arrive, please send me a message to&nbsp;<a href="mailto:zhenhua.yang.1@ndsu.edu" target="_blank" rel="noreferrer noopener">zhenhua.yang.1@ndsu.edu</a>&nbsp;or 513-432-8923. Then I will open the door for you.</p>
-
-
-
-<p>To prevent the spread of COVID-19, all the researchers and participants are required to wear face coverings in the building. Before you enter the office, please&nbsp;<a href="https://touch2pass.xyz/COVID-19%20Screening%20Form.docx" target="_blank" rel="noreferrer noopener">download the screening form</a>, print, and complete it.</p>
-
-
-
-<p><strong>Important</strong>: If you were confirmed with COVID-19, or had contact* with a person with a confirmed case of COVID-19, or had any of following symptoms, please reschedule this study 14 days later:</p>
-
-
-
-<ul><li>Have you had a fever within the last 14 days?</li><li>Have you had a forceful dry cough or productive cough within the last 14 days?</li><li>Have you had difficulty breathing or shortness of breath within the last 14 days?</li><li>Have you had a sore throat within the last 14 days?</li></ul>
-
-
-
-<p>*Contact is defined as less than 6 feet separation for more than 15 minutes without adequate personal protective equipment.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1322</post-id>	</item>
 		<item>
 		<title>An Introduction to UI/UX Design</title>
 		<link>/an-introduction-to-ui-ux-design/</link>

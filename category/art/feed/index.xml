@@ -15,7 +15,7 @@
 	<atom:link href="/category/art/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Apr 2023 18:30:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jun 2023 02:23:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,23 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">204485775</site>	<item>
+		<title>The Taste of Ink</title>
+		<link>/the-taste-of-ink/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 16:28:33 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<guid isPermaLink="false">/?p=3075</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-684x1024.jpg" alt="Icon design with the style of Chinese traditional painting." class="wp-image-3076" width="1147" height="1717" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-684x1024.jpg 684w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-201x300.jpg 201w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-768x1149.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-1027x1536.jpg 1027w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-1369x2048.jpg 1369w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/墨香-scaled.jpg 1711w" sizes="(max-width: 1147px) 100vw, 1147px" /></figure></div>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3075</post-id>	</item>
+		<item>
 		<title>Painting the Skyline</title>
 		<link>/painting-the-skyline/</link>
 		
@@ -96,48 +113,49 @@
 		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
 		<pubDate>Tue, 17 Jan 2023 17:07:41 +0000</pubDate>
 				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
 		<guid isPermaLink="false">/?p=2942</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped uag-masonry has-nv-light-bg-background-color has-background uagb-block-5b7c8498 wp-block-gallery-1 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="830" data-id="2943"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg" alt="Watercolor cardinal" class="wp-image-2943" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-300x243.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-768x622.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1536x1245.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-2048x1660.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-scaled.jpg"><img decoding="async" width="1024" height="830" data-id="2943"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg" alt="Watercolor cardinal" class="wp-image-2943" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-300x243.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-768x622.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1536x1245.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-2048x1660.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="704" height="1024" data-id="2944"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg" alt="Watercolor: salt lamp" class="wp-image-2944" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg 704w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-206x300.jpg 206w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-768x1118.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1055x1536.jpg 1055w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1407x2048.jpg 1407w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789.jpg 1621w" sizes="(max-width: 704px) 100vw, 704px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789.jpg"><img decoding="async" width="704" height="1024" data-id="2944"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg" alt="Watercolor: salt lamp" class="wp-image-2944" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg 704w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-206x300.jpg 206w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-768x1118.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1055x1536.jpg 1055w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1407x2048.jpg 1407w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789.jpg 1621w" sizes="(max-width: 704px) 100vw, 704px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="742" data-id="2945"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg" alt="Watercolor: sunset" class="wp-image-2945" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-300x217.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-768x557.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1536x1113.jpeg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-2048x1484.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-scaled.jpeg"><img decoding="async" width="1024" height="742" data-id="2945"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg" alt="Watercolor: sunset" class="wp-image-2945" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-300x217.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-768x557.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1536x1113.jpeg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-2048x1484.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="707" height="1024" data-id="2946"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg" alt="Landscape Drawing" class="wp-image-2946" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg 707w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-207x300.jpeg 207w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-768x1113.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-1060x1536.jpeg 1060w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr.jpeg 1400w" sizes="(max-width: 707px) 100vw, 707px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr.jpeg"><img decoding="async" width="707" height="1024" data-id="2946"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg" alt="Landscape Drawing" class="wp-image-2946" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg 707w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-207x300.jpeg 207w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-768x1113.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-1060x1536.jpeg 1060w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr.jpeg 1400w" sizes="(max-width: 707px) 100vw, 707px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" data-id="2947"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2947" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk.jpeg 1235w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk.jpeg"><img decoding="async" width="683" height="1024" data-id="2947"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2947" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk.jpeg 1235w" sizes="(max-width: 683px) 100vw, 683px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="698" height="1024" data-id="2948"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg" alt="Landscape Drawing" class="wp-image-2948" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg 698w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-204x300.jpeg 204w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-768x1127.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1047x1536.jpeg 1047w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1396x2048.jpeg 1396w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk.jpeg 1400w" sizes="(max-width: 698px) 100vw, 698px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk.jpeg"><img decoding="async" width="698" height="1024" data-id="2948"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg" alt="Landscape Drawing" class="wp-image-2948" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg 698w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-204x300.jpeg 204w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-768x1127.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1047x1536.jpeg 1047w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1396x2048.jpeg 1396w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk.jpeg 1400w" sizes="(max-width: 698px) 100vw, 698px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" data-id="2949"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg" alt="Structural Drawing" class="wp-image-2949" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-300x200.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-768x512.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-930x620.jpeg 930w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar.jpeg"><img decoding="async" width="1024" height="682" data-id="2949"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg" alt="Structural Drawing" class="wp-image-2949" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-300x200.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-768x512.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-930x620.jpeg 930w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="683" height="1024" data-id="2950"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2950" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1365x2048.jpeg 1365w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4.jpeg 1400w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4.jpeg"><img decoding="async" width="683" height="1024" data-id="2950"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2950" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1365x2048.jpeg 1365w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4.jpeg 1400w" sizes="(max-width: 683px) 100vw, 683px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="911" data-id="2951"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg" alt="Portrait Drawing" class="wp-image-2951" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-300x267.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-768x683.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga.jpeg"><img decoding="async" width="1024" height="911" data-id="2951"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg" alt="Portrait Drawing" class="wp-image-2951" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-300x267.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-768x683.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" data-id="2952"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg" alt="Landscape Drawing" class="wp-image-2952" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-225x300.jpeg 225w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-1152x1536.jpeg 1152w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda.jpeg 1400w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda.jpeg"><img decoding="async" width="768" height="1024" data-id="2952"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg" alt="Landscape Drawing" class="wp-image-2952" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-225x300.jpeg 225w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-1152x1536.jpeg 1152w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda.jpeg 1400w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -152,6 +170,7 @@
 		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
 		<pubDate>Tue, 10 Jan 2023 20:21:12 +0000</pubDate>
 				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
 		<guid isPermaLink="false">/?p=2884</guid>
 
 					<description><![CDATA[Animated Icons, 48&#215;48 pixels. Animated Icons, 24&#215;24 pixels.]]></description>
@@ -380,27 +399,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3039</post-id>	</item>
-		<item>
-		<title>Watercolor Painting: Cardinal</title>
-		<link>/watercolor-painting-cardinal/</link>
-					<comments>/watercolor-painting-cardinal/#respond</comments>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Mon, 27 Dec 2021 01:00:19 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[watercolor]]></category>
-		<guid isPermaLink="false">/?p=1375</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-1024x830.jpg" alt="" class="wp-image-1376" width="1024" height="830" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-1024x830.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-300x243.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-768x622.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-1536x1245.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2021/12/IMG_3727-2048x1660.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Watercolor, 11 inch x 9 inch</figcaption></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/watercolor-painting-cardinal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1375</post-id>	</item>
 	</channel>
 </rss>

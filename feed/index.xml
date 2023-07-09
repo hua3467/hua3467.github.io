@@ -15,7 +15,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Apr 2023 22:55:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jun 2023 02:24:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -59,26 +59,6 @@
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3333</post-id>	</item>
 		<item>
-		<title>Zoom</title>
-		<link>/zoom/</link>
-					<comments>/zoom/#respond</comments>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Wed, 19 Apr 2023 15:12:37 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3323</guid>
-
-					<description><![CDATA[https://ndsu.zoom.us/j/4799531858]]></description>
-										<content:encoded><![CDATA[
-<p><a href="https://ndsu.zoom.us/j/4799531858">https://ndsu.zoom.us/j/4799531858</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/zoom/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3323</post-id>	</item>
-		<item>
 		<title>Protected: Mizuho OSI Surgical Table</title>
 		<link>/mizuho-osi-surgical-table/</link>
 					<comments>/mizuho-osi-surgical-table/#respond</comments>
@@ -100,25 +80,6 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3223</post-id>	</item>
-		<item>
-		<title>Protected: ppt</title>
-		<link>/ppt/</link>
-		
-		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
-		<pubDate>Sun, 12 Feb 2023 04:21:11 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3192</guid>
-
-					<description><![CDATA[There is no excerpt because this is a protected post.]]></description>
-										<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
-<p>This content is password protected. To view it please enter your password below:</p>
-<p><label for="pwbox-3192">Password: <input name="post_password" id="pwbox-3192" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
-</form>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3192</post-id>	</item>
 		<item>
 		<title>AI Created Webpage</title>
 		<link>/ai-created-webpage/</link>
@@ -205,10 +166,10 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" width="1024" height="717" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1024x717.png" alt="Personal Logo Design" class="wp-image-2957" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1024x717.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-300x210.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-768x538.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1536x1076.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-2048x1434.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup.png"><img decoding="async" width="1024" height="717" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1024x717.png" alt="Personal Logo Design" class="wp-image-2957" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1024x717.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-300x210.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-768x538.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-1536x1076.png 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-ay-mockup-2048x1434.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" width="1024" height="702" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1024x702.jpg" alt="LOGO design" class="wp-image-2965" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1024x702.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-300x206.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-768x526.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1536x1053.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-2048x1403.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>]]></content:encoded>
+<figure class="aligncenter size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-scaled.jpg"><img decoding="async" width="1024" height="702" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1024x702.jpg" alt="LOGO design" class="wp-image-2965" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1024x702.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-300x206.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-768x526.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-1536x1053.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/logo-mockup_unesco-2048x1403.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></div>]]></content:encoded>
 					
 		
 		
@@ -219,7 +180,8 @@
 		
 		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
 		<pubDate>Thu, 19 Jan 2023 16:28:33 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
 		<guid isPermaLink="false">/?p=3075</guid>
 
 					<description><![CDATA[]]></description>
@@ -267,7 +229,7 @@
 		<guid isPermaLink="false">/?p=2985</guid>
 
 					<description><![CDATA[Official website design for NDSU the School of Design, Architecture, and Art.]]></description>
-										<content:encoded><![CDATA[<div class='printomatic pom-small-white ' id='id1832' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id1832' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
+										<content:encoded><![CDATA[<div class='printomatic pom-small-white ' id='id4568' alt='Print this Page' title='Print this Page' data-print_target='article'></div> <div class='printomatictext' id='id4568' alt='Print this Page' title='Print this Page' data-print_target='article'>Print this Page</div><div style='clear: both;'></div>
 
 
 
@@ -494,5 +456,149 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2955</post-id>	</item>
+		<item>
+		<title>Painting and Drawing</title>
+		<link>/painting-and-drawing/</link>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 17:07:41 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<guid isPermaLink="false">/?p=2942</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped uag-masonry has-nv-light-bg-background-color has-background uagb-block-5b7c8498 wp-block-gallery-19 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-scaled.jpg"><img decoding="async" width="1024" height="830" data-id="2943"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg" alt="Watercolor cardinal" class="wp-image-2943" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1024x830.jpg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-300x243.jpg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-768x622.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-1536x1245.jpg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3727-2048x1660.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789.jpg"><img decoding="async" width="704" height="1024" data-id="2944"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg" alt="Watercolor: salt lamp" class="wp-image-2944" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-704x1024.jpg 704w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-206x300.jpg 206w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-768x1118.jpg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1055x1536.jpg 1055w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789-1407x2048.jpg 1407w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3789.jpg 1621w" sizes="(max-width: 704px) 100vw, 704px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-scaled.jpeg"><img decoding="async" width="1024" height="742" data-id="2945"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg" alt="Watercolor: sunset" class="wp-image-2945" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1024x742.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-300x217.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-768x557.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-1536x1113.jpeg 1536w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/IMG_3815-2048x1484.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr.jpeg"><img decoding="async" width="707" height="1024" data-id="2946"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg" alt="Landscape Drawing" class="wp-image-2946" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-707x1024.jpeg 707w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-207x300.jpeg 207w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-768x1113.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr-1060x1536.jpeg 1060w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_305ge3rixoxjzizvciuuwossr.jpeg 1400w" sizes="(max-width: 707px) 100vw, 707px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk.jpeg"><img decoding="async" width="683" height="1024" data-id="2947"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2947" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cie7zdobcftbzafqk_juwgjtk.jpeg 1235w" sizes="(max-width: 683px) 100vw, 683px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk.jpeg"><img decoding="async" width="698" height="1024" data-id="2948"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg" alt="Landscape Drawing" class="wp-image-2948" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-698x1024.jpeg 698w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-204x300.jpeg 204w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-768x1127.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1047x1536.jpeg 1047w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk-1396x2048.jpeg 1396w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_cvneahgznczwvsbvfzwqd6gwk.jpeg 1400w" sizes="(max-width: 698px) 100vw, 698px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar.jpeg"><img decoding="async" width="1024" height="682" data-id="2949"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg" alt="Structural Drawing" class="wp-image-2949" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-1024x682.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-300x200.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-768x512.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar-930x620.jpeg 930w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_fpsubnhqbqbrxdaho82sho6ar.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4.jpeg"><img decoding="async" width="683" height="1024" data-id="2950"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg" alt="Landscape Drawing" class="wp-image-2950" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-683x1024.jpeg 683w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-200x300.jpeg 200w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-768x1152.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1024x1536.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4-1365x2048.jpeg 1365w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_hpg0l5jbedoxwxsennnuhwkc4.jpeg 1400w" sizes="(max-width: 683px) 100vw, 683px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga.jpeg"><img decoding="async" width="1024" height="911" data-id="2951"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg" alt="Portrait Drawing" class="wp-image-2951" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-1024x911.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-300x267.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga-768x683.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_m4Gd6n9kemksNcWCdC0HMi2ga.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda.jpeg"><img decoding="async" width="768" height="1024" data-id="2952"  src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg" alt="Landscape Drawing" class="wp-image-2952" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-768x1024.jpeg 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-225x300.jpeg 225w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda-1152x1536.jpeg 1152w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/large_288252_pxcoyngto_8hxhs2cbgdc6pda.jpeg 1400w" sizes="(max-width: 768px) 100vw, 768px" /></a></figure>
+</figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2942</post-id>	</item>
+		<item>
+		<title>Pixel Arts</title>
+		<link>/pixel-arts/</link>
+					<comments>/pixel-arts/#respond</comments>
+		
+		<dc:creator><![CDATA[Aaron Yang]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 20:21:12 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<guid isPermaLink="false">/?p=2884</guid>
+
+					<description><![CDATA[Animated Icons, 48&#215;48 pixels. Animated Icons, 24&#215;24 pixels.]]></description>
+										<content:encoded><![CDATA[<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-full"><img decoding="async" width="1027" height="608" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-living-room.png" alt="Pixel Art - living room" class="wp-image-2885" title="Living Room" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-living-room.png 1027w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-living-room-300x178.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-living-room-1024x606.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-living-room-768x455.png 768w" sizes="(max-width: 1027px) 100vw, 1027px" /><figcaption class="wp-element-caption">Living Room, 138&#215;82 pixels</figcaption></figure></div>
+
+<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River.png" alt="Pixel Art - Wild rice River" class="wp-image-2886" width="1026" height="658" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River.png 2048w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River-300x192.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River-1024x657.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River-768x492.png 768w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-Wild-rice-River-1536x985.png 1536w" sizes="(max-width: 1026px) 100vw, 1026px" /><figcaption class="wp-element-caption">Wild Rice River Grassland, 256&#215;192 pixels, 16 colors.</figcaption></figure></div>
+
+<div class="wp-block-image space-top-md">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-RH.jpeg" alt="Pixel Art-RH" class="wp-image-2887" width="1024" height="924" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-RH.jpeg 1148w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-RH-300x271.jpeg 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-RH-1024x924.jpeg 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2023/01/Pixel-Art-RH-768x693.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The Weekend of NDSU Down Campus, 320&#215;300 pixels.</figcaption></figure></div>
+
+<div class="wp-block-image bg-gray space-top-md">
+<figure class="aligncenter size-full"><img decoding="async" width="1411" height="1022" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/UI-design-1-1.png" alt="" class="wp-image-1656" srcset="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/UI-design-1-1.png 1411w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/UI-design-1-1-300x217.png 300w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/UI-design-1-1-1024x742.png 1024w, https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/UI-design-1-1-768x556.png 768w" sizes="(max-width: 1411px) 100vw, 1411px" /><figcaption class="wp-element-caption">User Interface Design, Screen size: 128&#215;64 pixels</figcaption></figure></div>
+
+
+<div class="wp-block-columns space-top-lg is-layout-flex wp-container-24">
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/5-activity.gif" alt="" class="wp-image-1653" width="92" height="92"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/5-oral-care.gif" alt="" class="wp-image-1652" width="92" height="92"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/128X64-bath.gif" alt="" class="wp-image-1651" width="92" height="92"/></figure></div></div>
+</div>
+
+
+
+<p class="has-text-align-center has-small-font-size">Animated Icons, 48&#215;48 pixels.</p>
+
+
+
+<div class="wp-block-columns space-top-lg is-layout-flex wp-container-28">
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_a39a95f5d27d4a31a35d4e3932bb32cc_mv2.gif" alt="" class="wp-image-1650" width="38" height="50"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_a31475e65b4343c69e2f6b74cd88aaa8_mv2.gif" alt="" class="wp-image-1649" width="46" height="58"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_f64ee80155e847cbaf1cb4787852b66f_mv2.gif" alt="" class="wp-image-1648" width="38" height="50"/></figure></div></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-32">
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_678b0f5da8864f7d9bd834c1681eb6da_mv2.gif" alt="" class="wp-image-1647" width="38" height="50"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_a26a406947334d5883f363fdd5b6026d_mv2.gif" alt="" class="wp-image-1646" width="38" height="50"/></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://ik.imagekit.io/aayang/wp/wp-content/uploads/2022/12/b1622a_122de30bedd74812b46fc35c4bd776ea_mv2.gif" alt="" class="wp-image-1645" width="38" height="48"/></figure></div></div>
+</div>
+
+
+
+<p class="has-text-align-center has-small-font-size">Animated Icons, 24&#215;24 pixels.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pixel-arts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2884</post-id>	</item>
 	</channel>
 </rss>
